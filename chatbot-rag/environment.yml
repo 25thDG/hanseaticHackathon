@@ -1,0 +1,11 @@
+name: container
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - streamlit
+  - openai
+  - langchain-openai
+  - langchain-text-splitters
+  - langchain-chroma
+  - langchain-huggingface

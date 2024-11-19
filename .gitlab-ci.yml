@@ -1,0 +1,102 @@
+image: 'thlmylab/swakkd:stable'
+
+stages:
+- prepare
+- build
+- deploy
+- expose
+
+variables:
+  EMBEDDING_EP: "https://bge-m3-embedding.llm.mylab.th-luebeck.dev/"
+
+secrets:
+  stage: prepare
+  script:
+  - kubectl delete secret gitlab-registry-$CI_PROJECT_ID || true
+  - >
+    kubectl create secret docker-registry gitlab-registry-$CI_PROJECT_ID
+    --docker-server=$CI_REGISTRY
+    --docker-username=image-registry
+    --docker-password=$CI_REGISTRY_TOKEN
+
+volumes:
+  stage: prepare
+  script:
+  - cd deploy
+  - kubectl apply -f demo-pvc.yaml
+
+chatbot-img:
+  stage: build
+  image: docker:24
+  services: ["docker:24-dind"]
+  rules:
+    - changes:
+      - chatbot/*
+      - chatbot/*/**
+    - when: manual
+  script:
+  - cd chatbot
+  - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+  - docker build -t $CI_REGISTRY_IMAGE/chatbot:latest .
+  - docker push $CI_REGISTRY_IMAGE/chatbot:latest
+
+chatbot-rag-img:
+  stage: build
+  image: docker:24
+  services: ["docker:24-dind"]
+  rules:
+    - changes:
+      - chatbot-rag/*
+      - chatbot-rag/*/**
+    - when: manual
+  script:
+  - cd chatbot-rag
+  - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+  - docker build -t $CI_REGISTRY_IMAGE/chatbot-rag:latest .
+  - docker push $CI_REGISTRY_IMAGE/chatbot-rag:latest
+
+kirakatur-img:
+  stage: build
+  image: docker:24
+  services: ["docker:24-dind"]
+  rules:
+    - changes:
+      - kirakatur/*
+      - kirakatur/*/**
+    - when: manual
+  script:
+  - cd kirakatur
+  - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+  - docker build -t $CI_REGISTRY_IMAGE/kirakatur:latest .
+  - docker push $CI_REGISTRY_IMAGE/kirakatur:latest
+
+chatbot:
+  stage: deploy
+  needs: ["chatbot-img"]
+  script:
+  - cd deploy
+  - mo chatbot-dep+svc.yaml | kubectl delete -f - || true
+  - mo chatbot-dep+svc.yaml | kubectl apply -f -
+
+chatbot-rag:
+  stage: deploy
+  needs: ["chatbot-rag-img"]
+  script:
+  - cd deploy
+  - mo chatbot-rag-dep+svc.yaml | kubectl delete -f - || true
+  - mo chatbot-rag-dep+svc.yaml | kubectl apply -f -
+
+kirakatur:
+  stage: deploy
+  needs: ["kirakatur-img"]
+  script:
+  - cd deploy
+  - mo kirakatur-dep+svc.yaml | kubectl delete -f - || true
+  - mo kirakatur-dep+svc.yaml | kubectl apply -f -
+
+ingress:
+  stage: expose
+  needs: ["secrets", "volumes"]
+  script:
+  - cd deploy
+  - mo project-ing.yaml | kubectl apply -f -

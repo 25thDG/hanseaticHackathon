@@ -1,0 +1,1893 @@
+Abschnitt 1
+Allgemeiner Teil
+Abschnitt 2
+Jahres-Primärenergiebedarf
+und baulicher Wärmeschutz
+bei zu errichtenden Gebäuden
+Abschnitt 3
+Berechnungsgrundlagen und -verfahren
+Abschnitt 4
+(weggefallen)
+Abschnitt 1
+(weggefallen)
+Abschnitt 2
+(weggefallen)
+Abschnitt 1
+Aufrechterhaltung der
+energetischen Qualität bestehender Anlagen
+Abschnitt 2
+Einbau und Ersatz
+Abschnitt 3
+Energetische Inspektion von Klimaanlagen
+
+RICHTLINIE 2010/31/EU DESEUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 19. Mai 2010
+über die Gesamtenergieeffizienz von Gebäuden
+(Neufassung)
+DAS EUROPÄISCHEPARLAMENT UND DER RAT DER EUROPÄI
+SCHEN UNION Š
+gestützt aufden Vertrag über die Arbeitsweiseder Europäischen
+Union, insbesondere auf Artikel194 Absatz 2,
+auf Vorschlag der Europäischen Kommission,
+nach Stellungnahme des EuropäischenWirtschafts- und Sozial
+ausschusses (
+),
+nach Stellungnahme des Ausschusses der Regionen (
+),
+gemäß dem ordentlichenGesetzgebungsverfahren (
+),
+in Erwägung nachstehender Gründe:
+(1)
+DieRichtlinie 2002/91/EG des Europäischen Parlaments
+und des Rates vom 16. Dezember 2002 über die Ge
+samtenergieeffizienz von Gebäuden (
+) ist geändert wor
+den (
+). Aus Gründen der Klarheit empfiehlt es sich, im
+Rahmen der jetzt anstehenden wesentlichenÄnderungen
+eine Neufassung dieserRichtlinie vorzunehmen.
+(2)
+Eine effiziente, umsichtige, rationelleundnachhaltige
+Verwendung von Energie findet unter anderem bei Mi
+neralöl, Erdgas und festen Brennstoffen, die wichtige
+Energiequellen darstellen, aber auch die größten Verursa
+cher von Kohlendioxidemissionen sind, Anwendung.
+(3)
+AufGebäude entfallen 40 % des Gesamtenergiever
+brauchs der Union. Der Sektor expandiert, wodurch
+sich sein Energieverbrauch weiter erhöhen wird. Daher
+sind die Senkung des Energieverbrauchs und die Nutzung
+von Energie aus erneuerbaren Quellen im Gebäudesektor
+wesentliche Maßnahmen, die zur Verringerung der Ener
+gieabhängigkeit der Union und der Treibhausgasemissio
+nen benötigt werden. Zusammen mit einer verstärkten
+Nutzung von Energie aus erneuerbaren Quellen würden
+Maßnahmen zur Senkung des Energieverbrauchs in der
+Union es der Union ermöglichen, das Kyoto-Protokoll
+zum Rahmenübereinkommen der Vereinten Nationen
+über Klimaänderungen (UNFCCC) einzuhalten und ihrer
+langfristigen Verpflichtung, den weltweiten Temperatur
+anstieg unter 2 °C zu halten, sowie ihrer Verpflichtung,
+bis 2020 die Gesamttreibhausgasemissionen gegenüber
+den Werten von 1990 um mindestens 20 % bzw. im
+Fall des Zustandekommens eines internationalen Überein
+kommens um 30% zu senken, nachzukommen. Ein ge
+ringerer Energieverbrauchund die verstärkte Nutzung
+von Energie auserneuerbaren Quellen spielen auch eine
+wichtige Rolle bei der Stärkung der Energieversorgungs
+sicherheit, der Förderung von technologischen Entwick
+lungen sowie derSchaffung von Beschäftigungsmöglich
+keiten und von Möglichkeiten der regionalen Entwick
+lung, insbesondere in ländlichen Gebieten.
+(4)
+DieSteuerung der Energienachfrage ist ein wichtiges In
+strument für die Union, um auf den globalen Energie
+markt und damit auf die mittel- und langfristige Sicher
+heit der Energieversorgung Einfluss zu nehmen.
+(5)
+Der Europäische Rat hat bei seiner Tagung im März
+2007 auf die Notwendigkeit einer Steigerung der Ener
+gieeffizienz in der Union hingewiesen, um auf diese
+Weise den Energieverbrauch in der Union bis 2020 um
+20 % zu senken, und dazu aufgerufen, die Prioritäten,die
+in der Kommissionsmitteilung mit dem Titel —Aktions
+plan für Energieeffizienz: Das Potenzial ausschöpfenﬁ ge
+nannt werden, umfassend und rasch umzusetzen. In die
+sem Aktionsplan wurde auf das erhebliche Potenzial für
+kosteneffiziente Energieeinsparungenim Gebäudesektor
+hingewiesen. Das Europäische Parlament hat in seiner
+Entschließung vom 31. Januar2008 dazu aufgerufen,
+die Bestimmungen der Richtlinie 2002/91/EG zu ver
+schärfen, und hat wiederholt und zuletzt in seiner Ent
+schließung vom 3. Februar 2009 zur zweiten Überprü
+fung der Energiestrategie gefordert, das für 2020 ge
+steckte Ziel einer Steigerung der Energieeffizienz um
+20 % verbindlich vorzuschreiben. Außerdem enthält die
+Entscheidung Nr. 406/2009/EG des Europäischen Par
+laments unddes Rates vom 23. April 2009 über die
+Anstrengungen der Mitgliedstaaten zur Reduktion ihrer
+Treibhausgasemissionen mit Blick auf die Erfüllung der
+Verpflichtungen der Gemeinschaft zur Reduktion der
+Treibhausgasemissionen bis 2020 (
+), verbindliche natio
+nale Ziele für eine Senkung der Kohlendioxidemissionen,
+wofür die Energieeffizienz im Gebäudesektor von ent
+scheidender Bedeutung ist; außerdem sieht die Richtlinie
+2009/28/EG des EuropäischenParlaments und des Rates
+vom 23. April 2009 zur Förderung der Nutzung von
+Energie aus erneuerbaren Quellen (
+) dieFörderung der
+Energieeffizienz im Zusammenhang mit dem verbindli
+chen Ziel eines Anteils der Energie aus erneuerbaren
+Quellen von 20 % am Gesamtenergieverbrauch der
+Union bis 2020 vor.
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/13
+(
+) ABl. C 277 vom 17.11.2009, S. 75.
+(
+) ABl. C 200 vom 25.8.2009, S. 41.
+(
+) Standpunkt des Europäischen Parlaments vom 23. April 2009 (noch
+nicht im Amtsblatt veröffentlicht), Standpunkt des Rates in erster
+Lesungvom 14. April 2010 (noch nichtim Amtsblatt veröffent
+licht), Standpunkt des Europäischen Parlaments vom 18. Mai 2010
+(noch nicht im Amtsblatt veröffentlicht).
+(
+) ABl. L 1 vom 4.1.2003, S. 65.
+(
+) Siehe Anhang IV Teil A.
+(
+) ABl. L 140 vom 5.6.2009, S. 136.
+(
+) ABl. L 140 vom 5.6.2009, S. 16.
+(6)
+Der Europäische Rat hat im März 2007 die Verpflichtung
+der Union zum unionsweiten Ausbau der Energie aus
+erneuerbaren Quellen bekräftigt und das verbindliche
+Ziel eines 20-prozentigen Anteils dieser Energie bis
+2020 gebilligt.Die Richtlinie2009/28/EG schafft einen
+gemeinsamen Rahmen zur Förderungdieser Energie.
+(7)
+Es ist notwendig, konkretere Maßnahmen im Hinblick
+auf das große ungenutzte Potenzial für Energieeinsparun
+gen in Gebäuden und eineVerringerungder bedeutenden
+Unterschiede zwischen den Erfolgen der Mitgliedstaaten
+auf diesem Gebiet festzulegen.
+(8)
+Bei Maßnahmen zur weiteren Verbesserung der Gesamt
+energieeffizienz von Gebäuden sollte den klimatischen
+und lokalen Bedingungen sowie dem Innenraumklima
+und derKosteneffizienz Rechnung getragen werden.
+Diese Maßnahmen sollten anderen Anforderungen an
+Gebäude, wie beispielsweise Zugänglichkeit, Sicherheit
+und beabsichtigteNutzung des Gebäudes, nicht entgegen
+stehen.
+(9)
+Die Gesamtenergieeffizienz von Gebäuden sollte nach
+einer Methode berechnet werden, die national und regio
+nal differenziert werdenkann. Dabei sollten zusätzlich zu
+den Wärmeeigenschaften auch andere Faktoren von
+wachsender Bedeutung einbezogen werden, z.B. Hei
+zungssysteme und Klimaanlagen, Nutzung von Energie
+aus erneuerbaren Quellen, passive Heiz- und Kühlele
+mente, Sonnenschutz, Raumluftqualität, angemessene na
+türliche Beleuchtung und Konstruktionsart des Gebäudes.
+Bei der Methode zur Berechnung der Energieeffizienz
+sollte nicht nur die Heizperiode eines Jahres, sondern
+die jährliche Gesamtenergieeffizienz eines Gebäudes zu
+grunde gelegt werden. Die Methode sollte die geltenden
+europäischen Normen berücksichtigen.
+(10)
+Es ist ausschließlich Sache der Mitgliedstaaten, Mindest
+anforderungen an die Gesamtenergieeffizienz von Gebäu
+den und Gebäudekomponenten festzulegen. Diese Anfor
+derungen sollten so gewählt werden, dass ein kostenopti
+males Verhältnis zwischen den zu tätigenden Investitio
+nen und den über die Lebensdauer des Gebäudes einge
+sparten Energiekosten erreicht wird, und zwar unbescha
+det des Rechts der Mitgliedstaaten, Mindestanforderungen
+festzulegen, die größere Energieeffizienz bewirken als
+kostenoptimale Energieeffizienzniveaus. Es sollten ent
+sprechende Vorkehrungen getroffen werden, damit die
+Mitgliedstaaten ihre Mindestanforderungen an die Ge
+samtenergieeffizienz von Gebäuden regelmäßig im Hin
+blick auf den technischen Fortschritt überprüfen können.
+(11)
+Im Hinblick auf das Ziel kosteneffizienter oder kosten
+optimaler Energieeffizienzniveaus kann es unter bestimm
+ten Umständen, wie etwa bei klimatischen Unterschieden,
+gerechtfertigt sein, dass die Mitgliedstaaten für Gebäude
+komponenten kosteneffiziente oder kostenoptimale An
+forderungen festlegen,die in der Praxis den Einbau von
+den Vorgaben desUnionsrechts entsprechenden Baupro
+dukten begrenzen würden, sofern durch diese Anforde
+rungen keine ungerechtfertigtenMarktbarrieren errichtet
+werden.
+(12)
+Bei der Festlegung von Gesamtenergieeffizienzanforde
+rungen für gebäudetechnische Systeme sollten die Mit
+gliedstaaten Š soweit verfügbar und angemessen Š har
+monisierte Instrumente einsetzen, insbesondere Prüf- und
+Berechnungsmethoden und Energieeffizienzklassen, die
+im Rahmen von Durchführungsmaßnahmen zu der
+Richtlinie 2009/125/EG des Europäischen Parlaments
+und des Rates vom 21. Oktober 2009 zur Schaffung
+eines Rahmens für die Festlegung von Anforderungen
+an die umweltgerechte Gestaltung energieverbrauchsrele
+vanter Produkte (
+) und zu der Richtlinie 2010/30/EU des
+Europäischen Parlaments und des Rates vom 19. Mai
+2010 über die Angabe desVerbrauchs an Energieund
+anderen Ressourcen durch energieverbrauchsrelevante
+Produkte mittels einheitlicher Etiketten und Produktinfor
+mationen (
+) entwickelt wurden, um die Kohärenz zu den
+damit in Zusammenhang stehenden Initiativen zu ge
+währleisten und eine potenzielle Fragmentierung des
+Marktes so weit wie möglich zu vermeiden.
+(13)
+Diese Richtlinie giltunbeschadet der Artikel 107 und
+108 des Vertragsüber die Arbeitsweise der Europäischen
+Union (AEUV). Der in dieserRichtlinie verwendete Be
+griff —Anreizﬁ sollte daher nicht so verstanden werden,
+dass er staatliche Beihilfen darstellt.
+(14)
+Die Kommission sollte einen Rahmen für Vergleichs
+methoden zur Berechnung kostenoptimaler Mindest
+anforderungen an die Gesamtenergieeffizienz bestimmen.
+Die Mitgliedstaatensollten anhand dieses Rahmens die
+Ergebnisse mit den von ihnen festgelegten Mindestanfor
+derungen an die Gesamtenergieeffizienz vergleichen. Soll
+ten nennenswerte Diskrepanzen (d.h. mehr als 15 %) zwi
+schen den berechneten kostenoptimalen Mindestanforde
+rungen an die Gesamtenergieeffizienz und den geltenden
+Mindestanforderungen an die Gesamtenergieeffizienz zu
+verzeichnen sein, so sollten die Mitgliedstaaten die Ab
+weichungen begründen oder geeignete Maßnahmen zur
+Verringerung der Diskrepanzen vorsehen. Die geschätzte
+wirtschaftliche Lebensdauer eines Gebäudes oder einer
+Gebäudekomponente sollte von den Mitgliedstaaten an
+hand der bestehenden Praxis und der Erfahrungen bei der
+Bestimmung typischer wirtschaftlicher Lebensdauern er
+mittelt werden. Über die Ergebnisse dieses Vergleichs und
+die dabei zugrunde gelegten Daten sollte der Kommission
+regelmäßig Bericht erstattet werden. Diese Berichtesoll
+ten der Kommission die Möglichkeit geben, die Fort
+schritte der Mitgliedstaaten bei der Erreichung kosten
+optimaler Mindestanforderungen an die Gesamtenergieef
+fizienz zu beurteilen und darüber Bericht zu erstatten.
+DE
+L 153/14 Amtsblatt der Europäischen Union 18.6.2010
+(
+) ABl. L 285 vom 31.10.2009, S. 10.
+(
+) Siehe Seite 1 dieses Amtsblatts.
+(15)
+Gebäude haben Auswirkungen auf den langfristigen Ener
+gieverbrauch. Angesichts des langen Renovierungszyklus
+bestehender Gebäude sollten daher neue und bestehende
+Gebäude, die einer größeren Renovierung unterzogen
+werden, bestimmten Mindestanforderungen an die Ge
+samtenergieeffizienz genügen, die den klimatischen Ver
+hältnissen vor Ort angepasst sind. Da die Einsatzmöglich
+keiten alternativer Energieversorgungssystemeim All
+gemeinen nicht voll ausgeschöpft werden, sollten alterna
+tive Energieversorgungssysteme für neue Gebäude, unab
+hängig von ihrer Größe, in Betracht gezogen werden,
+unter Beachtung des Grundsatzes, dass zuerst der Ener
+giebedarf für die Heizung und Kühlung auf ein kosten
+optimales Niveau zu senken ist.
+(16)
+Größere Renovierungen bestehender Gebäude sindunab
+hängig von der Größe dieser Gebäude eine Gelegenheit
+für kosteneffiziente Maßnahmen zur Verbesserung der
+Gesamtenergieeffizienz. Aus Gründen der Kosteneffizienz
+sollte es möglich sein, die Mindestanforderungen an die
+Gesamtenergieeffizienz auf diejenigen renovierten Teile
+zu beschränken, die für die Energieeffizienz des Gebäudes
+am wichtigsten sind. Die Mitgliedstaaten sollten entschei
+den können, ob sie den Begriff —größere Renovierungﬁ
+nach dem Prozentanteil an der Gebäudehülle oder nach
+dem Gebäudewert definieren. Entscheidet sich ein Mit
+gliedstaat für die Definition auf der Grundlage des Ge
+bäudewerts, so könnten Werte wie der Versicherungswert
+oder der jeweils aktuelle Wert auf der Grundlage der
+Neuerrichtungskosten herangezogen werden, jedoch un
+ter Ausschluss des Werts des Grundstücks,auf dem sich
+das Gebäude befindet.
+(17)
+Es müssenMaßnahmen ergriffenwerden, um die Zahl
+der Gebäude zu erhöhen, die nicht nur die geltenden
+Mindestanforderungen an die Gesamtenergieeffizienz er
+füllen, sondern noch energieeffizienter sind, um damit
+sowohl den Energieverbrauch als auch die Kohlendioxid
+emissionen zu senken. Hierzu sollten die Mitgliedstaaten
+nationale Pläne erstellen, um die Zahl der Niedrigstener
+giegebäude zu erhöhen, und der Kommission über der
+artige Pläne regelmäßig Bericht erstatten.
+(18)
+Derzeit werdenFinanzinstrumente der Union und andere
+Maßnahmen eingerichtet bzw. angepasst, mit denen ener
+gieeffizienzfördernde Maßnahmen angeregt werden sol
+len. Zu diesen Finanzinstrumenten auf Unionsebene ge
+hören unter anderem die Verordnung (EG) Nr.
+1080/2006 des Europäischen Parlaments und des Rates
+vom 5. Juli 2006 über den Europäischen Fonds für re
+gionale Entwicklung (
+), die geändert wurde, um höhere
+Investitionen in die Energieeffizienz im Bereich Woh
+nungsbau zu ermöglichen; die öffentlich-private Partner
+schaft für eine —Europäische Initiative für energieeffiziente
+Gebäudeﬁ zur Förderung umweltfreundlicher Technolo
+gien und der Entwicklung energieeffizienterSysteme
+und Materialien für neue undrenovierteGebäude; die
+von der Kommission und der Europäischen Investitions
+bank (EIB) getragene —EU-Initiative zur Finanzierung einer
+nachhaltigen Energiewirtschaftﬁ, die unter anderem die
+Finanzierung von Investitionen in Energieeffizienz er
+möglichen soll; der unter der Federführung der EIB ste
+hende, auch —Fonds Margueriteﬁ genannte —Europäische
+Fonds 2020 für Energie, Klimaschutz und Infrastrukturﬁ;
+die Richtlinie 2009/47/EG des Rates vom 5. Mai 2009
+zur Änderung der Richtlinie 2006/112/EG in Bezug auf
+ermäßigte Mehrwertsteuersätze (
+); das den Strukturfonds
+und dem Kohäsionsfondszuzurechnende Instrument Je
+remie (Gemeinsame europäische Ressourcen für kleinste
+bis mittlere Unternehmen); die Fazilität zur Förderung der
+Energieeffizienz; das Rahmenprogramm für Wettbewerbs
+fähigkeit und Innovation einschließlich des Programms
+—Intelligente Energie Š Europa IIﬁ, das sichspeziellauf
+die Beseitigung von Marktbarrieren in Bezug auf Energie
+effizienz und Energie aus erneuerbaren Quellen konzen
+triert, etwa durch die Fazilität für technische Hilfe ELENA
+(Europäische Energiehilfe auf lokaler Ebene); der Bürger
+meisterkonvent; das Programm für unternehmerische Ini
+tiative und Innovation; das Programm —Unterstützung der
+IKT-Politikﬁ 2010 und das Siebte Forschungsrahmenpro
+gramm. Die Europäische Bank für Wiederaufbau und Ent
+wicklung stellt ebenfalls Finanzmittel zur Stimulierung
+von energieeffizienzförderndenMaßnahmen zur Ver
+fügung.
+(19)
+Die Finanzinstrumente der Union sollten so eingesetzt
+werden, dass sie den mit dieser Richtlinie verfolgten Zie
+len praktische Wirkung verleihen, ohne die nationalen
+Maßnahmen zu ersetzen. Sie sollten insbesondere einge
+setzt werden,um geeignete, innovative Finanzierungsmit
+tel bereitzustellen, mit denen Investitionen in energieeffi
+zienzfördernde Maßnahmen angeschobenwerdensollen.
+Die Instrumente könnten insbesondere eine bedeutende
+Rolle bei der Entwicklung nationaler, regionaler und lo
+kaler Fonds, Instrumente oder Mechanismen zur Energie
+effizienzförderung spielen,die privaten Haus- und Grund
+besitzern, kleinen und mittleren Unternehmen sowie
+Dienstleistern im Bereich der Energieeffizienz solche Fi
+nanzierungsmöglichkeiten anbieten.
+(20)
+Im Hinblick auf eineangemessene Unterrichtungder
+Kommission sollten die Mitgliedstaaten Auflistungen der
+bestehenden und geplanten Maßnahmen Š auch finan
+zieller Art Š erstellen, die zwar nicht nach dieser Richt
+linie vorgeschrieben sind, die aber den mit ihr verfolgten
+Zielen dienen. Die von den Mitgliedstaaten aufgelisteten
+bestehenden und geplanten Maßnahmen können ins
+besondere Maßnahmen umfassen,mit denen bestehende
+rechtliche Barrieren und Marktbarrieren verringert und
+Investitionen angeregt werden sollen, und/oder andere
+Maßnahmen zur Erhöhung der Energieeffizienz neuer
+und bestehender Gebäude, mit denen ein potenzieller
+Beitrag zur Reduzierung der Energiearmut verbunden
+ist. Diese Maßnahmen könnten unter anderem Folgendes
+umfassen: unentgeltliche oder subventionierte technische
+Hilfe und Beratung, direkte Zuschüsse,Regelungen für
+subventionierte oder zinsvergünstigte Kredite, Zuschuss
+regelungen und Kreditgarantieregelungen.Die Behörden
+und andere Institutionen, die diese Maßnahmen finanziel
+ler Art anbieten, könnten ihren Einsatz an die angege
+bene Gesamtenergieeffizienz und die Empfehlungen der
+Ausweise über die Gesamtenergieeffizienz knüpfen.
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/15
+(
+) ABl. L 210 vom 31.7.2006, S. 1.
+(
+) ABl. L 116 vom 9.5.2009, S. 18.
+(21)
+Um den Meldeaufwand fürdie Mitgliedstaatenzu verrin
+gern, sollten die in dieser Richtlinie geforderten Berichte
+in die Energieeffizienz-Aktionspläne gemäß Artikel 14
+Absatz 2 der Richtlinie 2006/32/EG des Europäischen
+Parlaments und des Rates vom 5. April 2006 über End
+energieeffizienz und Energiedienstleistungen (
+) integriert
+werden können. Der öffentliche Sektor in den Mitglied
+staaten sollte auf dem Gebiet der Gesamtenergieeffizienz
+von Gebäuden eine Vorreiterrolle übernehmen, und da
+her sollten die nationalen Pläne für Gebäude, die von
+Behörden genutzt werden, ehrgeizigere Ziele vorsehen.
+(22)
+DerAusweis über die Gesamtenergieeffizienz sollte po
+tenziellen Käufern und Mietern von Gebäuden oder Ge
+bäudeteilen zutreffende Informationen über die Gesamt
+energieeffizienz des Gebäudes sowie praktische Hinweise
+zu deren Verbesserung liefern. Es könnten Informations
+kampagnen durchgeführt werden, um die Eigentümer
+und Mieter noch stärker zu einer Verbesserung der Ge
+samtenergieeffizienz des Gebäudes oder der Gebäudeteile
+anzuregen. Zusätzlich sollten die Eigentümer und Mieter
+von Gewerbegebäuden zum Austauschvon Informatio
+nen überden tatsächlichen Energieverbrauch angeregt
+werden, damit alle Daten für fundierte Entscheidungen
+über notwendige Energieeffizienzverbesserungen verfüg
+bar sind. Zudem sollte der Ausweisüber die Gesamtener
+gieeffizienz Angaben darüber enthalten, wie sich Heizung
+und Kühlung aufden Energiebedarf des Gebäudes sowie
+auf dessen Primärenergieverbrauch und dessen Kohlen
+dioxidemissionen auswirken.
+(23)
+Die Behörden sollten mit gutemBeispiel vorangehen und
+sich bemühen, die Empfehlungen des Ausweises über die
+Gesamtenergieeffizienz umzusetzen. Die nationalen Pläne
+der Mitgliedstaatensollten Maßnahmen vorsehen,die die
+Behörden dabei unterstützen, die Energieeffizienz ihrer
+Gebäude frühzeitig zu verbessern und die Empfehlungen
+des Ausweises über die Gesamtenergieeffizienz so bald
+wie möglich umzusetzen.
+(24)
+Gebäude, die von Behörden genutzt werden, und Ge
+bäude mit starkem Publikumsverkehrsollten durch Ein
+beziehung von Umwelt- und Energieaspekten ein Vorbild
+darstellen, weshalb regelmäßig Energieausweise für sie
+erstellt werden sollten. Die Unterrichtung der Öffentlich
+keit über die Gesamtenergieeffizienz sollte durch Anbrin
+gung der Energieausweise an gut sichtbaren Stellen unter
+stützt werden; dies gilt insbesondere für Gebäude einer
+bestimmten Größe, in denen sich Behörden befinden
+oder starker Publikumsverkehr herrscht, wie Laden
+geschäfte und Einkaufszentren, Supermärkte, Gaststätten,
+Theater, Banken und Hotels.
+(25)
+In denletzten Jahren ist eine zunehmende Verwendung
+von Klimaanlagen in den Ländern Europas zu verzeich
+nen. Dies führt zu großen Problemen zu Spitzenlastzeiten
+mit der Folge, dass die Stromkosten steigen und die Ener
+giebilanz beeinträchtigt wird. Vorrang sollte Strategien
+eingeräumt werden, die zur Verbesserungder ther
+mischen Eigenschaftender Gebäude im Sommer beitra
+gen. Hierzu sollte man sich auf Maßnahmen zur Vermei
+dung einer übermäßigen Erwärmung, wie Sonnenschutz
+und ausreichende Wärmekapazität der Gebäudekonstruk
+tion, und auf Weiterentwicklung und Einsatz der passiven
+Kühlung konzentrieren, und zwar in erster Linie auf sol
+che Maßnahmen, die zur Verbesserungder Qualitätdes
+Raumklimas und zur Verbesserung des Mikroklimas in
+der Umgebung von Gebäuden beitragen.
+(26)
+Die regelmäßige Wartung und Inspektion von Heizungs-
+und Klimaanlagen durch qualifiziertes Personal trägt zu
+einem korrekten Betriebgemäß der Produktspezifikation
+bei und gewährleistet damit eine optimale Leistung aus
+ökologischer, sicherheitstechnischer und energetischer
+Sicht. Eine unabhängige Prüfung der gesamten Heizungs-
+und Klimaanlage sollte während ihrer Lebensdauer in
+regelmäßigen Abständen erfolgen, insbesondere vor ei
+nem Austausch oder einer Modernisierung. Im Hinblick
+auf einen möglichst geringen Verwaltungsaufwand für die
+Gebäudeeigentümer und -mieter sollten die Mitgliedstaa
+ten sich darum bemühen, dass Inspektionen und Aus
+weisausstellungen so weit wie möglich miteinander ver
+bunden werden.
+(27)
+Eingemeinsamer Ansatz bei der Erstellung von Energie
+ausweisen für Gebäude und bei der Inspektion von Hei
+zungs- und Klimaanlagen durch qualifiziertes und/oder
+zugelassenes Fachpersonal,dessen Unabhängigkeit auf
+der Grundlage objektiver Kriterien zu gewährleisten ist,
+werden dazu beitragen, gleiche Bedingungen für die An
+strengungen in den Mitgliedstaaten bei Energieeinsparun
+gen im Gebäudesektor zu schaffen, und werden für die
+potenziellen Eigentümer oder Nutzer Transparenz hin
+sichtlich der Gesamtenergieeffizienz auf dem Immobilien
+markt der Union schaffen. Um die Qualität der Ausweise
+über die Gesamtenergieeffizienz und der Inspektion von
+Heizungs- und Klimaanlagen in der gesamten Union zu
+gewährleisten, sollte in jedem Mitgliedstaat ein unabhän
+giges Kontrollsystem eingerichtet werden.
+(28)
+Da den regionalen und lokalen Behörden für die erfolg
+reiche Umsetzung dieser Richtlinie entscheidende Bedeu
+tung zukommt, sollten sie gegebenenfalls nach Maßgabe
+der innerstaatlichen Rechtsvorschriften in Bezug auf Pla
+nungsaspekte, Ausarbeitung von Informations-, Schu
+lungs- und Sensibilisierungsprogrammen sowieUmset
+zung dieser Richtlinie auf nationaler und regionaler
+Ebene konsultiert und eingebunden werden. Diese Kon
+sultationen könnten auch dafür genutzt werden, den ört
+lichen Planern und Gebäudeprüfern angemessene Leit
+linien für die Erfüllung der notwendigen Aufgaben zur
+Verfügung zu stellen. Ferner sollten die Mitgliedstaaten
+Architekten und Planer in die Lage versetzen und dazu
+anhalten, bei Planung, Entwurf, Bau und Renovierung
+von Industrie- und Wohngebieten die optimale Kombina
+tion von Energieeffizienzverbesserungen, Nutzung von
+Energie aus erneuerbaren Quellen und Einsatz von Fern
+wärme und -kälte angemessen in Betracht zu ziehen.
+DE
+L 153/16 Amtsblatt der Europäischen Union 18.6.2010
+(
+) ABl. L 114 vom 27.4.2006, S. 64.
+(29)
+Installateure und Baufachleute sind für die erfolgreiche
+Umsetzung dieser Richtlinie von entscheidender Bedeu
+tung. Daher sollte eine angemessene Zahl von Installa
+teuren und Baufachleuten durch Schulung und andere
+Maßnahmen die angemessene Fachkompetenz für Instal
+lation und Einbau der erforderlichen Technik zur Verbes
+serung der Energieeffizienz und zur Nutzung erneuer
+barer Energien erwerben.
+(30)
+Die Mitgliedstaaten sollten die Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates vom
+7. September 2005 über die Anerkennung von Berufs
+qualifikationen (
+) in Bezug auf die gegenseitige Anerken
+nung der unter diese Richtlinie fallenden Sachverständi
+gen berücksichtigen, und die Kommission sollte ihre im
+Rahmen des Programms —Intelligente Energie Š Europaﬁ
+durchgeführten Arbeiten an Leitlinien und Empfehlungen
+für Standards für die Ausbildung dieser Sachverständigen
+fortsetzen.
+(31)
+Im Hinblick auf eine bessere Transparenz der Gesamt
+energieeffizienz auf dem Immobilienmarkt der Union
+für Nichtwohngebäude sollten einheitliche Bestimmungen
+für ein fakultativesgemeinsames System für Ausweise
+über die Gesamtenergieeffizienz von Nichtwohngebäuden
+festgelegt werden. Nach Artikel 291 AEUV werden die
+Regeln und Grundsätze, nach denen die Mitgliedstaaten
+die Wahrnehmung der Durchführungsbefugnisse durch
+die Kommission kontrollieren, im Voraus durch eine ge
+mäß dem ordentlichen Gesetzgebungsverfahren ange
+nommene Verordnung festgelegt. Bis zur Annahme die
+ser neuen Verordnung findet weiterhin der Beschluss
+1999/468/EG des Rates vom 28. Juni1999 zur Fest
+legung der Modalitäten für die Ausübung der der Kom
+mission übertragenen Durchführungsbefugnisse (
+) An
+wendung, mit Ausnahme des nicht anwendbaren Rege
+lungsverfahrens mit Kontrolle.
+(32)
+Der Kommission sollte die Befugnis übertragen werden,
+in Bezug aufdie Anpassung bestimmter Teile des all
+gemeinen Rahmens in Anhang I an den technischen Fort
+schritt und in Bezug auf die Festlegung eines Rahmens
+für eine Methode zur Berechnung kostenoptimaler Min
+destanforderungen an die Gesamtenergieeffizienz von Ge
+bäuden delegierteRechtsakte nach Artikel 290 AEUV zu
+erlassen. Es ist von besonderer Bedeutung, dass die Kom
+mission bei ihren vorbereitenden Arbeiten angemessene
+Konsultationen Š auch auf Expertenebene Š durchführt.
+(33)
+Da das Ziel dieser Richtlinie, nämlich eine Verbesserung
+der Gesamtenergieeffizienz von Gebäuden, wegen der
+komplexen Strukturdes Gebäudesektorsund des Unver
+mögens der nationalen Immobilienmärkte, den Heraus
+forderungen auf dem Gebiet der Energieeffizienz hinrei
+chend zu begegnen, auf Ebene der Mitgliedstaaten nicht
+ausreichend verwirklicht werden kann und wegen des
+Umfangs und der Wirkungen der Maßnahmebesser auf
+Unionsebene zu erreichen ist, kann die Union im Ein
+klang mit dem in Artikel 5 des Vertrags über die Euro
+päische Union niedergelegten Subsidiaritätsprinzip tätig
+werden. Entsprechend dem in demselben Artikel genann
+ten Grundsatz der Verhältnismäßigkeit gehtdiese Richt
+linie nicht über das zur Erreichung dieses Ziels erforder
+liche Maß hinaus.
+(34)
+Die Verpflichtung zur Umsetzung dieser Richtlinie in
+innerstaatliches Recht sollte nur jene Bestimmungen be
+treffen, die im Vergleich zu der Richtlinie 2002/91/EG
+inhaltlich geändert wurden. Die Pflicht zur Umsetzung
+der inhaltlich unveränderten Bestimmungen ergibt sich
+aus der genannten Richtlinie.
+(35)
+Die vorliegende Richtlinie sollte die Pflichten der Mit
+gliedstaaten hinsichtlichder Fristen für die Umsetzung
+der Richtlinie 2002/91/EG in innerstaatlichesRecht und
+für ihre Anwendung unberührt lassen.
+(36)
+Nach Nummer34 der Interinstitutionellen Vereinbarung
+über bessere Rechtsetzung (
+) sind die Mitgliedstaaten auf
+gefordert, für ihre eigenen Zwecke und im Interesse der
+Union eigeneTabellenaufzustellen, aus denen im Rah
+men des Möglichen die Entsprechungen zwischen dieser
+Richtlinie und den Umsetzungsmaßnahmen zu entneh
+men sind,und diese zu veröffentlichenŠ
+HABEN FOLGENDE RICHTLINIE ERLASSEN:
+Artikel 1
+Gegenstand
+(1) Diese Richtlinie unterstützt die Verbesserungder Gesamt
+energieeffizienz von Gebäuden in der Union unter Berücksich
+tigung der jeweiligen äußeren klimatischen und lokalen Bedin
+gungen sowie der Anforderungen an das Innenraumklima und
+der Kosteneffizienz.
+(2) Diese Richtlinie enthält Anforderungen hinsichtlich
+a) des gemeinsamenallgemeinen Rahmens für eine Methode
+zur Berechnung der integrierten Gesamtenergieeffizienz von
+Gebäuden und Gebäudeteilen;
+b) der Anwendung von Mindestanforderungen an die Gesamt
+energieeffizienz neuer Gebäude und Gebäudeteile;
+c) der Anwendung von Mindestanforderungen an die Gesamt
+energieeffizienz von:
+i) bestehenden Gebäuden, Gebäudeteilen undGebäudekom
+ponenten, die einer größeren Renovierung unterzogen
+werden,
+ii) Gebäudekomponenten, die Teil der Gebäudehülle sind
+und sich erheblich auf die Gesamtenergieeffizienz der
+Gebäudehülle auswirken, wenn sie nachträglich eingebaut
+oder ersetzt werden und
+iii) gebäudetechnischen Systemen, wenn diese neu installiert,
+ersetzt oder modernisiert werden;
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/17
+(
+) ABl. L 255 vom 30.9.2005, S. 22.
+(
+) ABl. L 184 vom 17.7.1999, S. 23.
+(
+) ABl. C 321 vom 31.12.2003, S. 1.
+d) nationaler Pläne zur Erhöhung der Zahl der Niedrigstener
+giegebäude;
+e) der Erstellung von Energieausweisen für Gebäudeoder Ge
+bäudeteile;
+f) regelmäßiger Inspektionen von Heizungs- und Klimaanlagen
+in Gebäuden und
+g) unabhängiger Kontrollsysteme für Ausweise über die Ge
+samtenergieeffizienz und Inspektionsberichte.
+(3) Bei den Anforderungen dieser Richtliniehandelt es sich
+um Mindestanforderungen; sie hindern die einzelnen Mitglied
+staaten nicht daran, verstärkte Maßnahmen beizubehalten oder
+zu ergreifen. Die betreffenden Maßnahmen müssen mit dem
+Vertrag über die Arbeitsweise der Europäischen Union vereinbar
+sein. Sie werden der Kommission notifiziert.
+Artikel 2
+Begriffsbestimmungen
+Im Sinne dieser Richtlinie bezeichnet der Ausdruck:
+1. —Gebäudeﬁ eine Konstruktion mit Dach und Wänden, deren
+Innenraumklima unter Einsatz von Energie konditioniert
+wird;
+2. —Niedrigstenergiegebäudeﬁ ein Gebäude, das eine sehr hohe,
+nach Anhang I bestimmte Gesamtenergieeffizienz aufweist.
+Der fast bei Null liegende oder sehr geringe Energiebedarf
+sollte zu einem ganz wesentlichen Teil durch Energie aus
+erneuerbaren Quellen Š einschließlichEnergie aus erneuer
+baren Quellen, die am Standort oder in der Nähe erzeugt
+wird Š gedeckt werden;
+3. —gebäudetechnische Systemeﬁdie technische Ausrüstungfür
+Heizung, Kühlung, Lüftung, Warmwasserbereitung, Be
+leuchtung eines Gebäudes oder Gebäudeteils, oder für
+eine Kombination derselben;
+4. —Gesamtenergieeffizienz eines Gebäudesﬁ die berechnete
+oder gemessene Energiemenge, die benötigt wird, um den
+Energiebedarf im Rahmen der üblichen Nutzung des Ge
+bäudes (u. a. Heizung, Kühlung, Lüftung, Warmwasser und
+Beleuchtung) zu decken;
+5. —Primärenergieﬁ Energie aus erneuerbaren und nicht erneu
+erbaren Quellen, die keinem Umwandlungsprozess unterzo
+gen wurde;
+6. —Energie aus erneuerbaren Quellenﬁ Energie aus erneuer
+baren, nichtfossilen Energiequellen, das heißt Wind, Sonne,
+aerothermische, geothermische, hydrothermische Energie,
+Meeresenergie, Wasserkraft, Biomasse, Deponiegas, Klärgas
+und Biogas;
+7. —Gebäudehülleﬁdie integriertenKomponenten eines Gebäu
+des, die dessen Innenbereich von der Außenumgebung tren
+nen;
+8. —Gebäudeteilﬁ einen Gebäudeabschnitt, eine Etage oder eine
+Wohnung innerhalb eines Gebäudes, der bzw. die für eine
+gesonderte Nutzung ausgelegt ist oder hierfür umgebaut
+wurde;
+9. —Gebäudekomponenteﬁ eingebäudetechnisches System oder
+eine Komponente der Gebäudehülle;
+10. —größere Renovierungﬁdie Renovierung eines Gebäudes, bei
+der
+a) die Gesamtkosten der Renovierung der Gebäudehülle
+oder der gebäudetechnischen Systeme 25 % des Gebäu
+dewerts Š den Wert des Grundstücks,auf dem das
+Gebäude errichtet wurde, nicht mitgerechnet Š über
+steigen oder
+b) mehr als 25 % der Oberfläche der Gebäudehülle einer
+Renovierung unterzogen werden,
+Die Mitgliedstaaten können entscheiden, ob siedie Option
+a oder b anwenden;
+11. —EuropäischeNorm ﬁ eine Norm,die vom Europäischen Ko
+mitee für Normung, dem EuropäischenKomitee für elek
+trotechnische Normung oder dem Europäischen Institut für
+Telekommunikationsnormen verabschiedet und zur öffent
+lichen Verwendung bereitgestellt wurde;
+12. —Ausweis über die Gesamtenergieeffizienzﬁ einen von einem
+Mitgliedstaat oder einer von ihm benannten juristischen
+Person anerkannten Ausweis, der die Gesamtenergieeffi
+zienz eines Gebäudes oder von Gebäudeteilen,berechnet
+nach einer gemäß Artikel 3 festgelegten Methode, angibt;
+13. —Kraft-Wärme-Kopplungﬁ die gleichzeitige Erzeugung ther
+mischer Energie und elektrischer und/oder mechanischer
+Energie in einem Prozess;
+14. —kostenoptimales Niveauﬁ das Gesamtenergieeffizienzniveau,
+das während der geschätzten wirtschaftlichenLebensdauer
+mit den niedrigsten Kosten verbunden ist, wobei
+a) die niedrigsten Kosten unter Berücksichtigungder ener
+giebezogenen Investitionskosten, der Instandhaltungs-
+und Betriebskosten (einschließlich der Energiekosten
+und -einsparungen, der betreffenden Gebäudekategorie
+und gegebenenfalls der Einnahmen aus der Energie
+erzeugung) sowie gegebenenfalls der Entsorgungskosten
+ermittelt werden und
+DE
+L 153/18 Amtsblatt der Europäischen Union 18.6.2010
+b) die geschätzte wirtschaftliche Lebensdauer von jedem
+Mitgliedstaat bestimmt wird. Sie bezieht sich auf die
+geschätzte wirtschaftliche Restlebensdauer eines Gebäu
+des, wenn Gesamtenergieeffizienzanforderungenfür das
+Gebäude insgesamt festgelegt werden, oder auf die ge
+schätzte wirtschaftliche Lebensdauer einer Gebäudekom
+ponente, wenn Gesamtenergieeffizienzanforderungenfür
+Gebäudekomponenten festgelegtwerden,
+Das kostenoptimale Niveau liegt in dem Bereich der Ge
+samtenergieeffizienzniveaus, in denen die über die ge
+schätzte wirtschaftliche Lebensdauer berechnete Kosten-
+Nutzen-Analyse positiv ausfällt;
+15. —Klimaanlageﬁ eine Kombinationder Bauteile,die für eine
+Form der Raumluftbehandlung erforderlich sind, durch die
+die Temperatur geregelt wird oder gesenkt werden kann;
+16. —Heizkesselﬁ die kombinierte Einheit aus Gehäuse und Bren
+ner zur Abgabe der Verbrennungswärme an Flüssigkeiten;
+17. —Nennleistungﬁ die maximale Wärmeleistung in kW, die
+vom Herstellerfür den kontinuierlichen Betrieb angegeben
+und garantiert wird, bei Einhaltung des von ihm angegebe
+nen Wirkungsgrads;
+18. —Wärmepumpeﬁeine Maschine, ein Gerät oder eine Anlage,
+die die Wärmeenergie der natürlichenUmgebung (Luft,
+Wasser oder Boden) auf Gebäude oder industrielle Anlagen
+überträgt, indem sie den natürlichen Wärmestrom so um
+kehrt, dass dieser von einem Ort tieferer Temperatur zu
+einem Ort höhererTemperatur fließt. Bei reversiblen Wär
+mepumpen kann auch die Wärme von dem Gebäude an die
+natürliche Umgebung abgegeben werden;
+19. —Fernwärmeﬁ oder —Fernkälteﬁ die Verteilung thermischer
+Energie in Form von Dampf, heißem Wasser oder kalten
+Flüssigkeiten von einer zentralen Erzeugungsquelle durch
+ein Netz an mehrere Gebäude oder Anlagen zur Nutzung
+von Raum- oder Prozesswärme oder -kälte.
+Artikel 3
+Festlegung einer Methode zur Berechnung der
+Gesamtenergieeffizienz von Gebäuden
+Zur Berechnung der Gesamtenergieeffizienz von Gebäuden wen
+den die Mitgliedstaaten eine Methode an, die mit dem in An
+hang I festgelegten gemeinsamen allgemeinen Rahmen im Ein
+klang steht.
+Diese Methode wird auf nationaler oder regionaler Ebene ver
+abschiedet.
+Artikel 4
+Festlegung von Mindestanforderungen an die
+Gesamtenergieeffizienz
+(1) Die Mitgliedstaaten ergreifen die erforderlichen Maßnah
+men, um sicherzustellen, dass im Hinblick aufdie Erreichung
+kostenoptimaler Niveaus Mindestanforderungen an die Gesamt
+energieeffizienz von Gebäuden oder Gebäudeteilen festgelegt
+werden. Die Gesamtenergieeffizienz wird nach der in Artikel 3
+genannten Methode berechnet. Die kostenoptimalen Niveaus
+werden nach dem in Artikel5 genannten Rahmen für eine
+Vergleichsmethode berechnet, sobald dieser Rahmen verfügbar
+ist.
+Die Mitgliedstaaten ergreifen die erforderlichen Maßnahmen, um
+sicherzustellen, dass zur Erreichung kostenoptimaler Niveaus
+Mindestanforderungen an die Gesamtenergieeffizienz von Ge
+bäudekomponenten festgelegtwerden, die Teil der Gebäudehülle
+sind und sich erheblich auf dieGesamtenergieeffizienz der Ge
+bäudehülle auswirken, wenn sie ersetzt oder nachträglich einge
+baut werden.
+Bei der Festlegung der Anforderungenkönnen die Mitgliedstaa
+ten zwischen neuen und bestehenden Gebäuden und unter
+schiedlichen Gebäudekategorien unterscheiden.
+Diese Anforderungen tragen den allgemeinen Innenraumklima
+bedingungen Rechnung, um mögliche negative Auswirkungen,
+wie unzureichende Belüftung, zu vermeiden, und berücksichti
+gen die örtlichen Gegebenheiten, die angegebene Nutzung sowie
+das Alter des Gebäudes.
+Ein Mitgliedstaat ist nicht verpflichtet, Mindestanforderungen an
+die Gesamtenergieeffizienz festzulegen, die über die geschätzte
+wirtschaftliche Lebensdauer nicht kosteneffizient sind.
+Die Mindestanforderungen an die Gesamtenergieeffizienz sind in
+regelmäßigen Zeitabständen, die fünf Jahre nicht überschreiten,
+zu überprüfen und erforderlichenfalls zu aktualisieren, um dem
+technischen Fortschritt in der Bauwirtschaft Rechnung zu tra
+gen.
+(2) Die Mitgliedstaaten können beschließen, die in Absatz 1
+genannten Anforderungen bei den folgenden Gebäudekatego
+rien nicht festzulegen oder anzuwenden:
+a) Gebäude, die als Teil eines ausgewiesenen Umfelds oder auf
+grund ihres besonderen architektonischen oder historischen
+Werts offiziell geschützt sind, soweit die Einhaltung be
+stimmter Mindestanforderungen an die Gesamtenergieeffi
+zienz eine unannehmbare Veränderung ihrerEigenart oder
+ihrer äußeren Erscheinung bedeuten würde;
+b) Gebäude, die für Gottesdienst und religiöse Zwecke genutzt
+werden;
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/19
+c) provisorische Gebäude mit einer Nutzungsdauer bis ein
+schließlich zwei Jahren, Industrieanlagen, Werkstätten und
+landwirtschaftliche Nutzgebäude mit niedrigem Energiebedarf
+sowie landwirtschaftliche Nutzgebäude, die in einem Sektor
+genutzt werden, auf den ein nationales sektorspezifisches
+Abkommen über die Gesamtenergieeffizienz Anwendung
+findet;
+d) Wohngebäude,die weniger als vier Monate jährlich genutzt
+werden oder werden sollen, oder alternativ Wohngebäude,
+die für eine begrenzte jährliche Dauer genutzt werden oder
+werden sollen und deren zu erwartender Energieverbrauch
+weniger als 25 % des zu erwartenden Energieverbrauchs bei
+ganzjähriger Nutzung beträgt;
+e) frei stehende Gebäude mit einer Gesamtnutzfläche von we
+niger als 50 m
+.
+Artikel 5
+Berechnung der kostenoptimalenNiveaus von
+Mindestanforderungen an die Gesamtenergieeffizienz
+(1) Die Kommission erstellt mittels delegierter Rechtsakte ge
+mäß den Artikeln 23, 24 und 25 bis zum 30. Juni 2011 einen
+Rahmen für eine Vergleichsmethode zur Berechnung kosten
+optimaler Niveaus von Mindestanforderungen an die Gesamt
+energieeffizienz von Gebäuden und Gebäudekomponenten.
+Der Rahmen für die Vergleichsmethode wirdgemäß Anhang III
+festgelegt; dabei wird zwischen neuen und bestehenden Gebäu
+den und unterschiedlichen Gebäudekategorien unterschieden.
+(2) Die Mitgliedstaaten berechnen kostenoptimale Niveaus
+von Mindestanforderungen an die Gesamtenergieeffizienz unter
+Verwendung des gemäß Absatz 1 festgelegten Rahmens für eine
+Vergleichsmethode und einschlägiger Parameter, beispielsweise
+klimatische Gegebenheiten und tatsächliche Zugänglichkeit der
+Energieinfrastrukturen, und vergleichen die Ergebnisse dieser Be
+rechnung mit den geltenden Mindestanforderungen an die Ge
+samtenergieeffizienz.
+Über die Ergebnisse dieser Berechnung und die der Berechnung
+zugrunde gelegten Daten und Annahmen erstatten die Mitglied
+staaten der Kommission Bericht. Der Bericht kann den Energie
+effizienz-Aktionsplänen gemäß Artikel 14 Absatz 2 der Richt
+linie 2006/32/EG beigefügt werden. Die Mitgliedstaatenlegen
+der Kommission diese Berichte in regelmäßigen Abständen,
+die fünf Jahre nicht überschreiten,vor. Der erste Bericht ist
+bis 30. Juni 2012 zu übermitteln.
+(3) Zeigt das Ergebnis desnach Absatz 2 ausgeführten Ver
+gleichs,dass die geltenden Mindestanforderungen an die Ge
+samtenergieeffizienz wesentlich weniger energieeffizient sind
+als die kostenoptimalen Niveaus der Mindestanforderungen an
+die Gesamtenergieeffizienz, so rechtfertigt der betreffende Mit
+gliedstaat die Differenz schriftlich gegenüber der Kommission in
+dem Bericht gemäß Absatz 2, dem, soweit die Differenz nicht
+gerechtfertigt werden kann, ein Plan beigefügt ist, in dem geeig
+nete Schritte dargelegt werden, mit denen die Differenz bis zur
+nächsten Überprüfung der Mindestanforderungen an die Ge
+samtenergieeffizienz gemäß Artikel 4 Absatz 1 wesentlich ver
+ringert werden kann.
+(4) Die Kommission veröffentlichteinen Bericht über die
+Fortschritte der Mitgliedstaaten bei der Erreichung kostenopti
+maler Niveaus von Mindestanforderungen an die Gesamtener
+gieeffizienz von Gebäuden.
+Artikel 6
+Neue Gebäude
+(1) Die Mitgliedstaaten ergreifen die erforderlichen Maßnah
+men, um sicherzustellen, dass neue Gebäude die nach Artikel 4
+festgelegten Mindestanforderungen an die Gesamtenergieeffi
+zienz erfüllen.
+Bei neuen Gebäuden gewährleisten die Mitgliedstaaten, dassvor
+Baubeginn die technische, ökologische und wirtschaftliche Rea
+lisierbarkeit des Einsatzes von hocheffizienten alternativen Sys
+temen wie den nachstehend aufgeführten, sofern verfügbar, in
+Betracht gezogen und berücksichtigt wird:
+a) dezentrale Energieversorgungssysteme auf der Grundlage von
+Energie aus erneuerbaren Quellen,
+b) Kraft-Wärme-Kopplung,
+c) Fern-/Nahwärme oder Fern-/Nahkälte, insbesondere,wenn sie
+ganz oder teilweiseaufEnergie aus erneuerbaren Quellen
+beruht,
+d) Wärmepumpen.
+(2) Die Mitgliedstaaten gewährleisten, dass die Prüfung der in
+Absatz 1 genannten alternativen Systeme dokumentiert wird
+und für Überprüfungszwecke zur Verfügung steht.
+(3) Die Prüfung alternativerSysteme kann für einzelne Ge
+bäude oder für Gruppen ähnlicher Gebäude oder für Gebäude
+eines gemeinsamen Bautyps in demselben Gebiet durchgeführt
+werden. Bei Fern-/Nahwärme und Fern-/Nahkälte kann die Prü
+fung für alle Gebäude durchgeführt werden,die in demselben
+Gebiet an das System angeschlossensind.
+Artikel 7
+Bestehende Gebäude
+Die Mitgliedstaaten ergreifen die erforderlichen Maßnahmen, um
+sicherzustellen, dass die Gesamtenergieeffizienz von Gebäuden,
+die einer größeren Renovierung unterzogen werden, oder der
+renovierten Gebäudeteile erhöht wird, um die gemäß Artikel 4
+festgelegten Mindestanforderungen an die Gesamtenergieeffi
+zienz zu erfüllen, sofern dies technisch, funktionell und wirt
+schaftlich realisierbar ist.
+Die Anforderungen werden auf das renovierte Gebäude oder
+den renoviertenGebäudeteil als Ganzes angewandt. Zusätzlich
+oder alternativ hierzu können Anforderungen auf die renovier
+ten Gebäudekomponenten angewandt werden.
+DE
+L 153/20 Amtsblatt der Europäischen Union 18.6.2010
+Des Weiteren ergreifen die Mitgliedstaaten die erforderlichen
+Maßnahmen, um sicherzustellen, dass die Gesamtenergieeffi
+zienz einer Gebäudekomponente, dieTeil der Gebäudehülle ist
+und sich erheblich auf derenGesamtenergieeffizienz auswirkt
+und die nachträglicheingebaut oder ersetzt wird, die Mindest
+anforderungen an die Gesamtenergieeffizienzerfüllt, sofern dies
+technisch, funktionell und wirtschaftlich realisierbar ist.
+Die Mitgliedstaaten legen diese Mindestanforderungen an die
+Gesamtenergieeffizienz gemäß Artikel 4 fest.
+Die Mitgliedstaatensetzen sich dafür ein, dass im Fall einer
+größeren Renovierung von Gebäuden die in Artikel 6 Absatz
+1 aufgeführten hocheffizienten alternativen Systemein Betracht
+gezogen und berücksichtigt werden,sofern dies technisch, funk
+tionell und wirtschaftlich realisierbar ist.
+Artikel 8
+Gebäudetechnische Systeme
+(1) Die Mitgliedstaaten legen zur optimalen Energienutzung
+durch die gebäudetechnischen Systeme Systemanforderungen an
+die Gesamtenergieeffizienz, die ordnungsgemäße Installation
+und angemessene Dimensionierung, Einstellung und Über
+wachung der gebäudetechnischen Systeme fest, die in bestehen
+den Gebäuden eingebaut werden. Die Mitgliedstaaten können
+diese Systemanforderungen auch auf neue Gebäude anwenden.
+Die Systemanforderungen werden für neue gebäudetechnische
+Systeme sowie für Ersetzung und Modernisierung von gebäude
+technischen Systemen festgelegt und insoweit angewandt, als
+dies technisch, funktionell und wirtschaftlich realisierbar ist.
+Die Systemanforderungen gelten mindestens für folgende Anla
+gen:
+a) Heizungsanlagen,
+b) Warmwasseranlagen,
+c) Klimaanlagen,
+d) große Lüftungsanlagen
+oder Kombinationen dieser Anlagen.
+(2) Die Mitgliedstaaten unterstützen die Einführung intelli
+genter Messsysteme bei der Errichtung oder einer größeren Re
+novierung von Gebäuden, wobei sie gewährleisten, dass die
+betreffende Unterstützung mit Anhang I Nummer 2 der Richt
+linie 2009/72/EG des Europäischen Parlaments und des Rates
+vom 13. Juli 2009 über gemeinsame Vorschriften für den Elek
+trizitätsbinnenmarkt (
+) im Einklang steht. Die Mitgliedstaaten
+können gegebenenfalls auchdie Installation aktiver Steuerungs
+systeme wie aufEnergieeinsparungen ausgelegte Automatisie
+rungs-, Regelungs- und Überwachungssysteme unterstützen.
+Artikel 9
+Niedrigstenergiegebäude
+(1) Die Mitgliedstaaten gewährleisten, dass
+a) bis 31. Dezember 2020alle neuenGebäude Niedrigstener
+giegebäude sind und
+b) nach dem 31.Dezember 2018 neue Gebäude, die von Be
+hörden als Eigentümer genutzt werden, Niedrigstenergiege
+bäude sind.
+Die Mitgliedstaaten erstellen nationale Pläne zur Erhöhung der
+Zahl der Niedrigstenergiegebäude. Diese nationalen Pläne kön
+nen nach Gebäudekategorien differenzierte Zielvorgaben enthal
+ten.
+(2) Des Weiteren legen dieMitgliedstaaten unter Berücksich
+tigung der Vorreiterrolle der öffentlichen Hand Strategien fest
+und ergreifenMaßnahmen wiebeispielsweise die Festlegung von
+Zielen, um Anreize für den Umbau von Gebäuden, die saniert
+werden, zu Niedrigstenergiegebäuden zu vermitteln; hierüber
+unterrichten sie die Kommission in den in Absatz 1 genannten
+nationalen Plänen.
+(3) Die nationalenPläneenthalten unter anderem folgende
+Angaben:
+a) eine ausführliche Darlegung der praktischen Umsetzung der
+Definition der Niedrigstenergiegebäude durch die Mitglied
+staaten, in der die nationalen, regionalen oder lokalen Gege
+benheiten erläutert werden, einschließlich eines numerischen
+Indikators für den Primärenergieverbrauchin kWh/m
+pro
+Jahr. Die für die Bestimmung des Primärenenergieverbrauchs
+verwendeten Primärenergiefaktoren können auf nationalen
+oder regionalen Jahresdurchschnittswerten beruhen und den
+einschlägigen europäischenNormen Rechnung tragen.
+b) Zwischenziele für die Verbesserung der Gesamtenergieeffi
+zienz neuer Gebäude für 2015 im Hinblick auf die Vorberei
+tung der Anwendung des Absatzes 1;
+c) Informationen über die Strategien sowie über die finanziellen
+oder sonstigen Maßnahmen, die im Rahmen der Absätze 1
+und 2 zur Förderung von Niedrigstenergiegebäuden ange
+nommen wurden, einschließlich der Einzelheiten der im Rah
+men des Artikels 13 Absatz 4 der Richtlinie2009/28/EG
+und der Artikel 6 und 7 der vorliegenden Richtlinie fest
+gelegten nationalen Anforderungen und Maßnahmen betref
+fend die Nutzung von Energie aus erneuerbaren Quellen in
+neuen Gebäuden und in bestehenden Gebäuden, die einer
+größeren Renovierung unterzogen werden.
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/21
+(
+) ABl. L 211 vom 14.8.2009, S. 55.
+(4) Die Kommission evaluiertdie in Absatz 1 genannten
+nationalen Pläne insbesondere im Hinblick auf die Angemessen
+heit der von den Mitgliedstaaten zur Verwirklichung der Ziele
+dieser Richtlinie geplanten Maßnahmen. Sie kann unter gebüh
+render Berücksichtigung des Subsidiaritätsprinzips um weitere
+gezielte Informationen zu den in den Absätzen 1, 2 und 3
+genannten Anforderungen ersuchen. In diesem Fall legt der be
+treffende Mitgliedstaat innerhalb von neun Monaten ab dem
+Ersuchen der Kommission die angeforderten Informationen
+vor oder schlägt Änderungen vor. Die Kommission kann im
+Anschluss an die Evaluierung eine Empfehlung aussprechen.
+(5) Die Kommissionveröffentlicht bis 31. Dezember 2012
+und danach alle drei Jahre einen Bericht über die Fortschritte der
+Mitgliedstaaten bei der Erhöhung der Zahl der Niedrigstenergie
+gebäude. Auf der Grundlage dieses Berichts erarbeitet die Kom
+mission einen Aktionsplan und schlägt erforderlichenfalls Maß
+nahmen zur Erhöhung der Zahl dieser Gebäude vor und setzt
+sich für bewährte Verfahren für den kosteneffizienten Umbau
+bestehender Gebäude in Niedrigstenergiegebäudeein.
+(6) Die Mitgliedstaaten können beschließen, inbesonderen
+und begründeten Fällen, in denen die Kosten-Nutzen-Analyse
+über die wirtschaftliche Lebensdauer des betreffenden Gebäudes
+negativ ausfällt, die in Absatz 1 Buchstaben a und b dargelegten
+Anforderungen nicht anzuwenden. Die Mitgliedstaaten unter
+richten die Kommission über die Grundsätze der betreffenden
+gesetzlichen Regelungen.
+Artikel 10
+Finanzielle Anreize und Marktschranken
+(1) Angesichts der Bedeutung angemessener Finanzierungs
+instrumente und sonstiger Instrumente zur Beschleunigung ei
+ner besseren Gesamtenergieeffizienz von Gebäuden und des
+Umbaus von Gebäudenzu Niedrigstenergiegebäuden ergreifen
+die Mitgliedstaatenangemessene Schritte, um die in Anbetracht
+der nationalen Gegebenheiten zweckdienlichsten dieser Instru
+mente in Betracht zu ziehen.
+(2) Die Mitgliedstaaten erstellen bis 30. Juni2011 ein Ver
+zeichnis der bestehenden und der gegebenenfalls geplanten
+Maßnahmen und Instrumente Š auchfinanzieller Art Š, die
+zwar nach dieser Richtlinie nicht vorgeschriebensind, aber den
+mit ihr verfolgten Zielendienen.
+Die Mitgliedstaaten aktualisieren dieses Verzeichnis alle drei
+Jahre. Sie übermitteln diese Verzeichnisse der Kommission, wo
+bei sie dieser Verpflichtung auch dadurch nachkommen können,
+dass sie die Verzeichnisse in die in Artikel 14 Absatz 2 der
+Richtlinie 2006/32/EG genannten Energieeffizienz-Aktionspläne
+aufnehmen.
+(3) DieKommission prüft die Wirksamkeit der im Verzeich
+nis nach Absatz 2 aufgelisteten bestehenden und geplanten
+Maßnahmen sowie der einschlägigen Unionsinstrumente zur
+Unterstützung der Umsetzung dieser Richtlinie. Auf der Grund
+lage dieser Prüfung kann die Kommission unter gebührender
+Berücksichtigung des Subsidiaritätsprinzipshinsichtlich spezi
+fischer nationaler Regelungen und der Abstimmung mit Finanz
+institutionen der Union und mit internationalen Finanzinstitu
+tionen Ratschläge erteilen oder Empfehlungen aussprechen. Die
+Kommission kann die Ergebnisse ihrer Prüfung sowie die etwai
+gen Ratschläge oder Empfehlungen in ihrenBericht über die
+nationalen Energieeffizienz-Aktionspläne nach Artikel 14 Ab
+satz 5 der Richtlinie 2006/32/EG aufnehmen.
+(4) Die Kommissionunterstützt gegebenenfalls auf Anfrage
+die Mitgliedstaaten bei der Aufstellung nationaler oder regiona
+ler Finanzhilfeprogramme zur Erhöhung der Gesamtenergieeffi
+zienz von Gebäuden, insbesondere von bestehenden Gebäuden,
+indem sieinsbesondere den Austausch bewährter Verfahren
+zwischen den zuständigen nationalen oder regionalen Behörden
+bzw. Stellen unterstützt.
+(5) Zur Verbesserung der Finanzierung zugunsten der Um
+setzung dieser Richtlinie legt dieKommission unter gebührender
+Berücksichtigung des Subsidiaritätsprinzips Š vorzugsweise bis
+2011 Š eine Analyse insbesondere der folgenden Aspekte vor:
+a) Wirksamkeit, Angemessenheitder Höhe und tatsächlichver
+wendeter Betrag der zur Erhöhung der Gesamtenergieeffi
+zienz von Gebäuden, insbesondereWohngebäuden, auf
+gewendeten Mittel der Strukturfonds und Rahmenpro
+gramme;
+b) Wirksamkeit der Verwendung von Mitteln der EIB und an
+derer öffentlicher Finanzinstitutionen;
+c) Koordinierung der Unionsmittel sowie der nationalen Finan
+zierung und anderer Unterstützungsformen, die als Instru
+ment zur Stimulierungder Investitionenin die Energieeffi
+zienz wirken können, und Angemessenheit dieser Mittel im
+Hinblick auf die Verwirklichung der Ziele der Union.
+Auf der Grundlagedieser Analyse kann die Kommission im
+Einklang mit dem mehrjährigen Finanzrahmen anschließend
+dem Europäischen Parlament und dem Rat Vorschlägein Bezug
+auf Unionsinstrumente unterbreiten, wenn sie dies für angezeigt
+hält.
+(6) Die Mitgliedstaaten berücksichtigen die kostenoptimalen
+Niveaus der Gesamtenergieeffizienz, wenn sie Anreize für den
+Bau oder eine größere Renovierung von Gebäuden bereitstellen.
+(7) Die Mitgliedstaaten werden durch diese Richtlinie nicht
+daran gehindert, Anreize für neue Gebäude, Renovierungsarbei
+ten oder Gebäudekomponenten, die über die kostenoptimalen
+Niveaus hinausgehen, bereitzustellen.
+Artikel 11
+Ausweise über die Gesamtenergieeffizienz
+(1) Die Mitgliedstaaten legendie erforderlichen Maßnahmen
+fest, um ein System für die Erstellung von Ausweisen über die
+Gesamtenergieeffizienz von Gebäuden einzurichten. Der Aus
+weis über die Gesamtenergieeffizienz muss die Gesamtenergie
+effizienz von Gebäuden und Referenzwerte wie Mindestanforde
+rungen an die Gesamtenergieeffizienz enthalten, um den Eigen
+tümern oder Mietern von Gebäuden oder Gebäudeteilen einen
+Vergleich und eine Beurteilung ihrer Gesamtenergieeffizienz zu
+ermöglichen.
+DE
+L 153/22 Amtsblatt der Europäischen Union 18.6.2010
+Der Ausweisüber die Gesamtenergieeffizienz kann zusätzliche
+Angaben wie den Jahresenergieverbrauch von Nichtwohngebäu
+den und den Prozentanteil der Energie aus erneuerbaren Quellen
+am Gesamtenergieverbrauch enthalten.
+(2) Der Ausweis über die Gesamtenergieeffizienz muss Emp
+fehlungen für die kostenoptimale oder kosteneffiziente Verbes
+serung der Gesamtenergieeffizienz des Gebäudes oder Gebäude
+teils enthalten, es sei denn, es gibt kein vernünftiges Potenzial
+für derartige Verbesserungen gegenüber den geltenden Anforde
+rungen an die Gesamtenergieeffizienz.
+Die in dem Ausweis über die Gesamtenergieeffizienz enthalte
+nen Empfehlungenbeziehen sich auf
+a) Maßnahmen im Zusammenhang miteiner größeren Reno
+vierung der Gebäudehülleoder gebäudetechnischer Systeme
+und
+b) Maßnahmen für einzelne Gebäudekomponenten, die unab
+hängig von einer größeren Renovierung derGebäudehülle
+oder gebäudetechnischer Systeme durchgeführt werden.
+(3) Die in dem Ausweis über die Gesamtenergieeffizienz ent
+haltenen Empfehlungen müssen an dem betreffenden Gebäude
+technisch realisierbar sein und können eine Schätzung der
+Amortisationszeiträume oder der Kostenvorteile während der
+wirtschaftlichen Lebensdauer enthalten.
+(4) Der Ausweisüber die Gesamtenergieeffizienz enthält ei
+nen Hinweis darauf, wo der Eigentümer oder der Mieter ge
+nauere Angaben, auch zu der Kosteneffizienz der in dem Aus
+weis über die Gesamtenergieeffizienz enthaltenen Empfehlun
+gen, erhalten kann. Die Kosteneffizienz wird anhand einer Reihe
+von Standardbedingungen bestimmt, wie einer Bewertung der
+Energieeinsparungen, der zugrunde liegenden Energiepreise und
+einer vorläufigen Kostenschätzung. Zudem enthält der Ausweis
+Informationen über die zurUmsetzung der Empfehlungen zu
+unternehmenden Schritte. Dem Eigentümer oder Mieter können
+auch weitere Informationen zu verwandten Aspekten wie Ener
+gieauditsoder Anreize finanzieller oder anderer Art oder Finan
+zierungsmöglichkeiten gegeben werden.
+(5) Die Mitgliedstaatenregen vorbehaltlich der innerstaatli
+chen Rechtsvorschriften die Behörden dazu an, der Vorreiter
+rolle, die sie auf dem Gebiet der Gesamtenergieeffizienz von
+Gebäuden einnehmen sollten,unter anderem dadurch gerecht
+zu werden, dass sie innerhalb der Geltungsdauerdes Ausweises
+über die Gesamtenergieeffizienzder Gebäude, deren Eigentümer
+sie sind, den im Ausweis enthaltenen Empfehlungen nachkom
+men.
+(6) Für Gebäudeteile kann der Energieausweis ausgestellt wer
+den
+a) auf derGrundlage eines gemeinsamen Energieausweises für
+das gesamte Gebäude oder
+b) auf der Grundlage der Bewertung eines anderen vergleich
+baren Gebäudeteils mit den gleichen energiebezogenen Merk
+malen in demselben Gebäude.
+(7) Für Einfamilienhäuserkannder Energieausweis auf der
+Grundlage der Bewertung eines anderen repräsentativen Gebäu
+des von ähnlicher Gestaltung, Größe und tatsächlicher Energie
+effizienz ausgestellt werden, sofern diese Ähnlichkeitvon dem
+Sachverständigen, der den Ausweis über die Gesamtenergieeffi
+zienz ausstellt, garantiert werden kann.
+(8) Die Gültigkeitsdauer des Ausweises überdie Gesamtener
+gieeffizienz darf zehn Jahre nicht überschreiten.
+(9) Die Kommission nimmt bis 2011 im Benehmen mit den
+einschlägigen Sektoren ein freiwilliges gemeinsames System der
+Europäischen Union für Ausweise über die Gesamtenergieeffi
+zienz von Nichtwohngebäuden an. Diese Maßnahme wird nach
+dem Beratungsverfahren des Artikels 26 Absatz 2 angenommen.
+Die Mitgliedstaaten werden aufgerufen, das System anzuerken
+nen oder zu verwendenoder unter Anpassung an die nationalen
+Gegebenheiten teilweise zu verwenden.
+Artikel 12
+Ausstellung von Ausweisen über die
+Gesamtenergieeffizienz
+(1) Die Mitgliedstaaten stellen sicher, dass ein Ausweis über
+die Gesamtenergieeffizienz ausgestellt wird für
+a) Gebäude oder Gebäudeteile, die gebaut, verkauft oder an
+einen neuen Mieter vermietet werden, sowie
+b) Gebäude, in denen mehr als 500m
+Gesamtnutzfläche von
+Behörden genutzt werden und die starken Publikumsverkehr
+aufweisen. Am 9. Juli 2015 wird dieser Schwellenwert von
+500 m
+auf 250 m
+gesenkt.
+Die Verpflichtung zur Ausstellung eines Ausweises über die
+Gesamtenergieeffizienz gilt nicht, wenn ein im Einklang entwe
+der mit der Richtlinie 2002/91/EG oder mit der vorliegenden
+Richtlinie ausgestellter gültiger Ausweis über die Gesamtenergie
+effizienz des betreffenden Gebäudes oder des betreffenden Ge
+bäudeteils vorliegt.
+(2) Die Mitgliedstaaten schreiben vor, dass bei Bau, Verkauf
+oder Vermietung von Gebäuden oder Gebäudeteilen der Aus
+weis über die Gesamtenergieeffizienz oder eine Kopie dieses
+Ausweises dem potenziellen neuen Mieter oder Käufer vorgelegt
+und dem neuen Mieter oder Käufer ausgehändigt wird.
+(3) Wird ein Gebäudevor dem Bau verkauft oder vermietet,
+so können die Mitgliedstaaten abweichend von den Absätzen 1
+und 2 verlangen, dass der Verkäufer eine Einschätzung der
+künftigen Gesamtenergieeffizienz des Gebäudes zur Verfügung
+stellt; in diesem Fall wird der Ausweis über die Gesamtenergie
+effizienz spätestensdann ausgestellt, wenn der Bau des Gebäu
+des abgeschlossen ist.
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/23
+(4) Die Mitgliedstaaten verlangen, dass bei Verkauf oder Ver
+mietung von
+Š Gebäuden, für die ein Ausweis über die Gesamtenergieeffi
+zienz vorliegt,
+Š Gebäudeteilen in einem Gebäude, fürdas ein Ausweis über
+die Gesamtenergieeffizienz vorliegt und
+Š Gebäudeteilen, für die ein Ausweis über die Gesamtenergie
+effizienz vorliegt,
+in den Verkaufs- oder Vermietungsanzeigen in den kommerziel
+len Mediender in dem Ausweis über die Gesamtenergieeffizienz
+des Gebäudes bzw. des Gebäudeteils angegebene Indikator der
+Gesamtenergieeffizienz genannt wird.
+(5) Dieser Artikel wird im Einklang mit den geltenden inner
+staatlichen Rechtsvorschriften über gemeinschaftliches Eigentum
+oder über Gesamteigentum angewandt.
+(6) Die Mitgliedstaaten können die inArtikel 4 Absatz 2
+genannten Gebäudekategorien von der Anwendung der Absätze
+1, 2, 4 und 5 des vorliegendenArtikelsausnehmen.
+(7) Mögliche Rechtswirkungen der Ausweiseüber dieGe
+samtenergieeffizienz bei etwaigen Rechtsstreitigkeiten bestim
+men sichnach dennationalen Rechtsvorschriften.
+Artikel 13
+Aushang von Ausweisen über die Gesamtenergieeffizienz
+(1) Die Mitgliedstaaten ergreifen Maßnahmen, um sicher
+zustellen, dass bei Gebäuden, für die ein Ausweis über die Ge
+samtenergieeffizienz nach Artikel 12 Absatz 1 ausgestellt wor
+den ist und in denen mehr als 500 m
+Gesamtnutzfläche von
+Behörden genutzt werden und die starken Publikumsverkehr
+aufweisen, der Ausweis über die Gesamtenergieeffizienz an einer
+für die Öffentlichkeitgut sichtbaren Stelle angebracht wird.
+Am 9. Juli 2015 wird dieser Schwellenwert von 500 m
+auf
+250 m
+gesenkt.
+(2) Die Mitgliedstaaten verlangen, dass bei Gebäuden, für die
+gemäß Artikel 12 Absatz 1 ein Ausweis über die Gesamtener
+gieeffizienz ausgestellt wurde und in denen mehr als 500 m
+Gesamtnutzfläche starken Publikumsverkehraufweisen, ein Aus
+weis über die Gesamtenergieeffizienz an einer für die Öffent
+lichkeit gut sichtbaren Stelle angebracht wird.
+(3) DieserArtikel enthält keine Verpflichtung zumAushang
+der im Ausweis über die Gesamtenergieeffizienz enthaltenen
+Empfehlungen.
+Artikel 14
+Inspektion von Heizungsanlagen
+(1) Die Mitgliedstaaten ergreifen die erforderlichen Maßnah
+men, um die regelmäßige Inspektion der zugänglichen Teile der
+zur Gebäudeheizung verwendeten Anlagen Š beispielsweise
+Wärmeerzeuger, Steuerungssystem und Umwälzpumpe Š mit
+Heizkesseln mit einer Nennleistung von mehr als 20 kW für
+Raumheizungszwecke zu gewährleisten. Diese Inspektion um
+fasst auch die Prüfung des Wirkungsgrads der Kessel und der
+Kesseldimensionierung im Verhältnis zum Heizbedarf des Ge
+bäudes. Die Prüfung der Dimensionierung von Heizkesseln
+braucht nicht wiederholt zu werden, wenn in der Zwischenzeit
+an der betreffenden Heizungsanlage keine Änderungen vor
+genommen wurden oder in Bezug auf den Wärmebedarf des
+Gebäudes keine Änderungen eingetreten sind.
+Die Mitgliedstaaten können die Häufigkeit der Inspektionen ver
+ringern bzw. die Inspektionen einschränken, wenn ein elektro
+nisches Überwachungs- und Steuerungssystem vorhanden ist.
+(2) Je nach Bauart undNennleistung der Heizungsanlage
+können die Mitgliedstaatenunterschiedliche Inspektionsinter
+valle festlegen; sie berücksichtigen dabei die Kosten für die In
+spektion der Heizungsanlageund die voraussichtlichen Einspa
+rungen bei den Energiekosten, die sich aus der Inspektion er
+geben können.
+(3) Heizungsanlagen mit Heizkesseln, deren Nennleistung
+mehr als 100 kW beträgt, sind mindestens alle zwei Jahre einer
+Inspektion zu unterziehen.
+Bei Gasheizkesseln kann diese Frist auf vier Jahre verlängert
+werden.
+(4) Alternativ zu den Absätzen 1, 2 und 3 können die Mit
+gliedstaaten Maßnahmen beschließen, um sicherzustellen, dass
+die Nutzer Ratschläge zum Austausch der Kessel,zu sonstigen
+Veränderungen an der Heizungsanlage und zu Alternativlösun
+gen erhalten, um den Wirkungsgrad und die Zweckmäßigkeit
+der Dimensionierung des Heizkessels zu beurteilen. Die Gesamt
+auswirkungen dieses Ansatzes müssen denen, die bei Anwen
+dung der Absätze 1, 2 und 3 entstehen, gleichwertig sein.
+Entscheiden die Mitgliedstaatensich für die Anwendung der in
+Unterabsatz 1 genannten Maßnahmen,so unterbreiten sie der
+Kommission bis spätestens 30. Juni 2011 einen Bericht über die
+Gleichwertigkeit jener Maßnahmen mit denen der Absätze 1, 2
+und 3 des vorliegenden Artikels. Die Mitgliedstaatenlegen der
+Kommission diese Berichte alle drei Jahre vor. Die Berichte
+können den Energieeffizienz-Aktionsplänen gemäß Artikel 14
+Absatz 2 der Richtlinie 2006/32/EG beigefügt werden.
+(5) Nach Eingang des nationalen Berichts eines Mitgliedstaats
+über die Anwendung der in Absatz 4 genannten Option kann
+die Kommission weitere Einzelangaben zu den Anforderungen
+und der Gleichwertigkeit der in Absatz 4 festgelegten Maßnah
+men anfordern. In diesem Fall legt der betreffende Mitgliedstaat
+innerhalb von neun Monaten die angeforderten Informationen
+vor oder schlägt Änderungen vor.
+DE
+L 153/24 Amtsblatt der Europäischen Union 18.6.2010
+Artikel 15
+Inspektion von Klimaanlagen
+(1) Die Mitgliedstaaten ergreifen die erforderlichen Maßnah
+men, um die regelmäßige Inspektion der zugänglichen Teilevon
+Klimaanlagen mit einer Nennleistung von mehr als 12 kW zu
+gewährleisten. Die Inspektion umfasst eine Prüfung des Wir
+kungsgrads der Anlage und der Anlagendimensionierung im
+Verhältnis zum Kühlbedarf des Gebäudes. Die Prüfung der Di
+mensionierung braucht nicht wiederholt zu werden, wenn in
+der Zwischenzeit an der betreffenden Klimaanlage keine Ände
+rungen vorgenommen wurden oder in Bezug auf den Kühlbe
+darf des Gebäudes keine Änderungen eingetreten sind.
+Ist ein elektronisches Überwachungs- und Steuerungssystem
+vorhanden, so können die Mitgliedstaaten die Häufigkeit der
+Inspektionen verringern bzw. die Inspektionen einschränken.
+(2) Je nach Bauart und Nennleistung der Klimaanlagen kön
+nen die Mitgliedstaaten unterschiedliche Inspektionsintervalle
+festlegen; sie berücksichtigen dabei die Kosten für die Inspektion
+der Klimaanlageund die voraussichtlichen Einsparungen bei den
+Energiekosten, die sich aus der Inspektion ergeben können.
+(3) Beim Erlass der in den Absätzen 1 und 2 diesesArtikels
+aufgeführten Maßnahmen gewährleisten die Mitgliedstaaten Š
+soweit wirtschaftlich und technisch realisierbar Š, dass die In
+spektionen im Einklang mit der in Artikel 14 dieser Richtlinie
+vorgesehenen Inspektion von Heizungsanlagen und anderen
+technischen Systemen und den in der Verordnung (EG) Nr.
+842/2006 des Europäischen Parlaments und des Rates vom
+17. Mai 2006 über bestimmte fluorierte Treibhausgase(
+) ge
+nannten KontrollenaufDichtheit durchgeführt werden.
+(4) Alternativ zu den Absätzen 1, 2 und 3 können dieMit
+gliedstaaten Maßnahmen beschließen, um sicherzustellen, dass
+die Nutzer Ratschläge fürden Austausch von Klimaanlagen oder
+für sonstige Veränderungen an der Klimaanlage erhalten, wozu
+auch Inspektionen zur Beurteilung des Wirkungsgrads und der
+Zweckmäßigkeit der Dimensionierung der Klimaanlagegehören
+können. Die Gesamtauswirkungen dieses Ansatzes müssen de
+nen, die bei Anwendung derAbsätze 1, 2 und 3 entstehen,
+gleichwertig sein.
+Wenden die Mitgliedstaaten die in Unterabsatz 1 genannten
+Maßnahmen an, so unterbreiten sie der Kommission bis spätes
+tens 30. Juni2011 einen Berichtüber die Gleichwertigkeit jener
+Maßnahmenmit denen derAbsätze 1, 2 und 3 des vorliegen
+den Artikels. Die Mitgliedstaaten legen der Kommission diese
+Berichte alle drei Jahre vor. Die Berichte können den Energieef
+fizienz-Aktionsplänen gemäß Artikel 14 Absatz 2 der Richtlinie
+2006/32/EG beigefügt werden.
+(5) Nach Erhalt des nationalen Berichts eines Mitgliedstaats
+über die Anwendung der Option nach Absatz 4 kann die Kom
+mission weitere Einzelangaben über die Anforderungen und die
+Gleichwertigkeit der Maßnahmen nach Absatz 4 anfordern. In
+diesem Fall übermittelt der betreffende Mitgliedstaat innerhalb
+von neun Monaten die angeforderten Informationen oder unter
+breitet Änderungsvorschläge.
+Artikel 16
+Berichte über die Inspektion von Heizungs- und
+Klimaanlagen
+(1) Nachjeder Inspektion einer Heizungs- oder Klimaanlage
+ist ein Inspektionsbericht zu erstellen. Der Inspektionsbericht
+enthält dasErgebnis der gemäß Artikel14 und15 durchgeführ
+ten Inspektion sowie Empfehlungen für kosteneffiziente Verbes
+serungen der Energieeffizienz der kontrollierten Anlage.
+Die Empfehlungen können sich auf einen Vergleich zwischen
+der Energieeffizienz der kontrollierten Anlage und der Energie
+effizienz der besten verfügbaren und realisierbaren Anlage und
+einer Anlage ähnlicher Bauart stützen, deren relevante Bestand
+teile die nach den geltenden Vorschriften geforderte Energieef
+fizienz aufweisen.
+(2) Der Inspektionsbericht wird dem Eigentümer oder dem
+Mieter des Gebäudes ausgehändigt.
+Artikel 17
+Unabhängiges Fachpersonal
+Die Mitgliedstaaten stellen sicher, dass die Erstellung des Aus
+weises über die Gesamtenergieeffizienz von Gebäuden sowie die
+Inspektion von Heizungs- und Klimaanlagen in unabhängiger
+Weise durch qualifizierte und/oder zugelassene Fachleute erfolgt,
+die entweder selbstständig oder bei Behörden oder privaten
+Stellen angestellt sein können.
+Die Zulassung der Fachleute erfolgt unter Berücksichtigung ihrer
+Fachkenntnis.
+Die Mitgliedstaaten machen der Öffentlichkeit Informationen
+über die Ausbildung und Zulassung zugänglich.Die Mitglied
+staaten stellen sicher, dass entweder regelmäßig aktualisierte
+Listen qualifizierter und/oder zugelassener Fachleute oder regel
+mäßig aktualisierte Listen zugelassenerUnternehmen, die die
+Dienste dieser Fachleute anbieten, der Öffentlichkeit zugänglich
+gemacht werden.
+Artikel 18
+Unabhängiges Kontrollsystem
+(1) Die Mitgliedstaaten gewährleisten,dass für die Ausweise
+über die Gesamtenergieeffizienz und die Inspektionsberichte für
+Heizungs- und Klimaanlagen unabhängige Kontrollsysteme ge
+mäß Anhang II eingerichtet werden. Die Mitgliedstaaten können
+separateSysteme für die Kontrolle der Ausweise über die Ge
+samtenergieeffizienz und der Inspektionsberichte für Heizungs-
+und Klimaanlagen einführen.
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/25
+(
+) ABl. L 161 vom 14.6.2006, S. 1.
+(2) Die Mitgliedstaaten können die Zuständigkeitenfürdie
+Einrichtung der unabhängigen Kontrollsysteme delegieren.
+In diesem Fall stellen die Mitgliedstaaten sicher, dass die Ein
+richtung der unabhängigen Kontrollsysteme nach Maßgabe von
+Anhang II erfolgt.
+(3) Die Mitgliedstaaten verlangen, dass die in Absatz 1 ge
+nannten Ausweise überdie Gesamtenergieeffizienz und Inspek
+tionsberichte den zuständigen Behörden oder Stellen auf Auf
+forderung zur Verfügung gestellt werden.
+Artikel 19
+Überprüfung
+Die Kommission nimmt mit Unterstützung des gemäß
+Artikel 26 eingesetzten Ausschussesbis spätestens 1. Januar
+2017 eineBewertung dieserRichtlinie aufgrund der bei ihrer
+Anwendung gesammelten Erfahrungen und erzielten Fortschritte
+vor und unterbreitet gegebenenfalls Vorschläge.
+Artikel 20
+Information
+(1) Die Mitgliedstaaten ergreifen die erforderlichen Maßnah
+men, um die Eigentümer oder Mieter von Gebäudenoder Ge
+bäudeteilen über die verschiedenen Methoden und praktischen
+Verfahren zur Verbesserung der Gesamtenergieeffizienz zu in
+formieren.
+(2) Die Mitgliedstaateninformieren die Eigentümer oder Mie
+ter von Gebäuden insbesondere über Ausweise über die Gesamt
+energieeffizienz und Inspektionsberichte,ihren Zweck und ihre
+Ziele, über kosteneffiziente Maßnahmen zur Verbesserung der
+Gesamtenergieeffizienz des Gebäudes sowie gegebenenfalls über
+die zur Verbesserung der Gesamtenergieeffizienz des Gebäudes
+zur Verfügung stehenden Finanzinstrumente.
+Die Kommission unterstützt die Mitgliedstaatenauf deren Ersu
+chen bei der Durchführung von Informationskampagnen für die
+Zwecke von Absatz 1 und Unterabsatz 1 des vorliegenden
+Absatzes, die Gegenstand von Unionsprogrammen sein können.
+(3) Die Mitgliedstaaten gewährleisten, dass für diejenigen, die
+für die Umsetzung dieser Richtlinie zuständig sind, Anleitung
+und Schulung zur Verfügung stehen. Im Rahmen dieser Maß
+nahmen ist auf die Bedeutungder Verbesserung der Gesamt
+energieeffizienz hinzuweisen und die Berücksichtigung einer op
+timalen Kombination von Verbesserungen der Energieeffizienz,
+der Verwendung erneuerbarer Energien und des Einsatzes von
+Fernwärme und Fernkühlung bei der Planung, dem Entwurf,
+dem Bau und der Renovierung von Industrie- oder Wohngebie
+ten zu ermöglichen.
+(4) Die Kommissionist aufgefordert, ihre Informationsdienste
+kontinuierlich zu verbessern, insbesondere die Website, die als
+ein an die Bürger, Berufsvertreter und Behörden gerichtetes eu
+ropäisches Portal für die Energieeffizienz von Gebäuden einge
+richtet wurde, um die Mitgliedstaaten bei ihren Bemühungen
+um Information und Sensibilisierung zu unterstützen. In diese
+Website könnte Folgendes aufgenommen werden: Links zu den
+einschlägigen Rechtsvorschriftender Union sowie zu nationalen,
+regionalenund lokalen Rechtsvorschriften, Links zu den EU
+ROPA-Websites mit den nationalen Energieeffizienz-Aktionsplä
+nen, Links zu den verfügbaren Finanzierungsinstrumenten sowie
+Beispiele für bewährte Verfahren auf nationaler, regionaler und
+lokaler Ebene. Im Rahmen des Europäischen Fonds für regionale
+Entwicklung führt die Kommission ihre Informationsdienste ver
+stärkt fort, um die Nutzung der verfügbaren Mittel dadurch zu
+erleichtern, dass beteiligten Akteuren, darunter den nationalen,
+regionalen und lokalen Behörden, Hilfeund Information in
+Bezug auf die Finanzierungsmöglichkeiten unter Berücksichti
+gung der jüngsten Änderungen des Regelungsrahmens angebo
+ten wird.
+Artikel 21
+Konsultation
+Um die wirksame Umsetzung der Richtlinie zu erleichtern, kon
+sultierendie Mitgliedstaaten die beteiligten Akteure, darunter die
+lokalen und regionalen Behörden, entsprechendden anwend
+baren nationalen Rechtsvorschriften und soweit erforderlich.
+Diese Konsultation ist für die Anwendung der Artikel 9 und
+20 vonbesonderer Bedeutung.
+Artikel 22
+Anpassung des Anhangs I an den technischen Fortschritt
+Die Kommission passtdie Teile3 und 4 des AnhangsI mittels
+delegierter Rechtsakte gemäß den Artikeln23, 24 und 25 an
+den technischenFortschritt an.
+Artikel 23
+Ausübung der Befugnisübertragung
+(1) DieBefugniszum Erlass der in Artikel 22 genannten
+delegierten Rechtsakte wird der Kommission für einen Zeitraum
+von fünf Jahren ab dem 8. Juli 2010 übertragen. Die Kommis
+sion legt spätestenssechs Monate vor Ablauf des Zeitraumsvon
+fünf Jahren einen Bericht über die übertragenen Befugnisse vor.
+Die Befugnisübertragung verlängert sich automatisch um Zeit
+räume gleicher Länge, es sei denn, das Europäische Parlament
+oder der Rat widerrufen sie gemäß Artikel 24.
+(2) Unbeschadet der in Artikel 5 Absatz 1 genannten Frist
+wird die Befugnis zum Erlass delegierter Rechtsakte nach
+Artikel 5 der Kommission bis zum 30. Juni 2012 übertragen.
+(3) Sobald die Kommission einen delegierten Rechtsakt er
+lässt, übermittelt sie ihn gleichzeitig dem Europäischen Par
+lament und dem Rat.
+DE
+L 153/26 Amtsblatt der Europäischen Union 18.6.2010
+(4) Die der Kommission übertragene Befugnis zumErlass
+delegierter Rechtsakte unterliegt den in den Artikeln 24 und
+25 genannten Bedingungen.
+Artikel 24
+Widerruf der Befugnisübertragung
+(1) Die in den Artikeln 5 und 22 genannte Befugnisüber
+tragung kann vom Europäischen Parlament oder vom Rat wi
+derrufen werden.
+(2) Das Organ, das ein internes Verfahreneingeleitet hat, um
+zu entscheiden,ob die Befugnisübertragungwiderrufen werden
+soll, bemüht sich, das andere Organ und die Kommission inner
+halb einerangemessenen Frist vor der endgültigen Beschluss
+fassung zu unterrichten,und nennt dabei die übertragenen Be
+fugnisse, die widerrufen werden könnten, sowie die etwaigen
+Gründe für einen Widerruf.
+(3) Der Beschluss über den Widerruf beendet die Übertra
+gung der in diesem Beschluss angegebenen Befugnisse. Der Be
+schluss wird sofort oder zu einem darin angegebenen späteren
+Zeitpunkt wirksam. Die Gültigkeit von Rechtsakten, die bereits
+in Kraft sind, wird davon nicht berührt. Der Beschlusswird im
+Amtsblatt der Europäischen Union
+veröffentlicht
+Artikel 25
+Einwände gegen delegierte Rechtsakte
+(1) Das Europäische Parlament oder der Ratkönnen gegen
+den delegierten Rechtsakt innerhalb einer Frist von zwei Mona
+ten ab dem Datum der Übermittlung Einwände erheben.
+Auf Initiative des Europäischen Parlaments oder des Rates wird
+diese Frist um zwei Monate verlängert.
+(2) Habenbis zum Ablauf dieser Frist weder das Europäische
+Parlament noch der Rat Einwände gegen den delegierten Rechts
+akt erhoben, so wird dieser im
+Amtsblatt der Europäischen Union
+veröffentlicht und tritt zu dem darin genannten Zeitpunkt in
+Kraft.
+Der delegierte Rechtsakt kann vor Ablauf dieser Frist im
+Amts
+blatt der Europäischen Union
+veröffentlicht werden und in Kraft
+treten, wenn das Europäische Parlament und der Rat beide der
+Kommission mitgeteilt haben, dass sienicht die Absicht haben,
+Einwände zu erheben.
+(3) Erheben das Europäische Parlament oder der Rat Ein
+wände gegen einen delegiertenRechtsakt,so tritt dieser nicht
+in Kraft. Das Organ, das Einwände erhebt, erläutert die Gründe
+für seine Einwände gegen den delegierten Rechtsakt.
+Artikel 26
+Ausschussverfahren
+(1) Die Kommission wird von einem Ausschuss unterstützt.
+(2) Wird auf diesen Absatz Bezuggenommen, so gelten die
+Artikel3 und 7 des Beschlusses 1999/468/EG unter Beachtung
+von dessen Artikel 8.
+Artikel 27
+Sanktionen
+Die Mitgliedstaaten legen fest,welche Sanktionen bei einem
+Verstoß gegen die innerstaatlichenVorschriften zur Umsetzung
+dieser Richtlinie zu verhängen sind, und ergreifen die zu deren
+Durchsetzung erforderlichenMaßnahmen. Die Sanktionen müs
+sen wirksam, verhältnismäßig und abschreckend sein. Die Mit
+gliedstaaten teilen der Kommission diese Vorschriften bis spä
+testens 9. Januar 2013 mit und unterrichten sie unverzüglich
+über alle späteren Änderungen dieser Vorschriften.
+Artikel 28
+Umsetzung
+(1) Die Mitgliedstaaten erlassen und veröffentlichenbis spä
+testens 9 Juli 2012 die Rechts- und Verwaltungsvorschriften, die
+erforderlich sind, um den Artikeln 2 bis 18 und den Artikeln 20
+und 27 nachzukommen.
+Sie wenden die Vorschriften, die die Artikel 2, 3, 9, 11, 12, 13,
+17, 18, 20 und 27 betreffen, spätestens ab 9.Januar 2013 an.
+Sie wenden die Vorschriften, die die Artikel 4, 5, 6, 7, 8, 14, 15
+und 16 betreffen, spätestens ab 9. Juli 2013 auf Gebäude an, die
+von Behörden genutzt werden,und spätestens ab 9.Juli 2013
+auf alle übrigen Gebäude an.
+Sie können dieAnwendung von Artikel 12 Absätze 1 und 2 auf
+einzelne Gebäudeteile, die vermietet sind, bis zum
+31. Dezember 2015 aufschieben. Dies darf jedoch nicht dazu
+führen, dass weniger Ausweise ausgestellt werden, als dies bei
+Anwendung der Richtlinie 2002/91/EG in den betreffenden Mit
+gliedstaaten der Fall gewesen wäre.
+Bei Erlass dieserMaßnahmen nehmen die Mitgliedstaaten in den
+Vorschriften selbst oder durch einen Hinweis bei der amtlichen
+Veröffentlichung auf die vorliegende Richtlinie Bezug. In diese
+Vorschriften fügen sie die Erklärung ein, dass Bezugnahmen in
+den geltenden Rechts- und Verwaltungsvorschriften aufdie
+Richtlinie 2002/91/EG als Bezugnahmen auf die vorliegende
+Richtlinie gelten. Die Mitgliedstaatenregeln die Einzelheiten
+dieser Bezugnahme und die Formulierung dieser Erklärung.
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/27
+(2) Die Mitgliedstaaten teilen der Kommission denWortlaut
+der wichtigsten innerstaatlichen Rechtsvorschriften mit, die sie
+auf dem unter diese Richtlinie fallenden Gebiet erlassen.
+Artikel 29
+Aufhebung
+Die Richtlinie 2002/91/EG in der Fassung der in Anhang IV Teil
+A angegebenen Verordnung wird unbeschadet der Verpflichtun
+gen der Mitgliedstaaten hinsichtlich der in Anhang IV Teil B
+genannten Fristen für die Umsetzung in innerstaatliches Recht
+und die Anwendung mit Wirkung vom 1. Februar 2012 auf
+gehoben.
+Bezugnahmen auf die Richtlinie 2002/91/EG gelten als Bezug
+nahmen auf die vorliegende Richtlinie und sind nach Maßgabe
+der Entsprechungstabelle in Anhang V zu lesen.
+Artikel 30
+Inkrafttreten
+Diese Richtlinietritt am zwanzigsten Tag nach ihrer Veröffent
+lichung im
+Amtsblatt der Europäischen Union
+in Kraft.
+Artikel 31
+Adressaten
+Diese Richtlinie ist an die Mitgliedstaaten gerichtet.
+Geschehen zu Straßburg am 19. Mai 2010.
+Im Namen des Europäischen
+Parlaments
+Der Präsident
+J. BUZEK
+Im Namen des Rates
+Der Präsident
+D. LÓPEZ GARRIDO
+DE
+L 153/28 Amtsblatt der Europäischen Union 18.6.2010
+ANHANG I
+Gemeinsamer allgemeiner Rahmen für die Berechnung der Gesamtenergieeffizienz von Gebäuden
+(gemäß Artikel 3)
+1. Die Gesamtenergieeffizienz eines Gebäudes ist anhand der berechneten oder tatsächlichenEnergiemenge zu bestim
+men, die jährlich verbraucht wird, um den unterschiedlichen Erfordernissen im Rahmen der üblichen Nutzung des
+Gebäudes gerecht zu werden, und wird durch den Energiebedarf für Heizungund Kühlung (Vermeidung von über
+mäßiger Erwärmung) zur Aufrechterhaltung der gewünschten Gebäudetemperatur und durch den Wärmebedarf für
+Warmwasser dargestellt.
+2. Die Gesamtenergieeffizienz eines Gebäudes istauf transparente Weise darzustellen undmuss zudem einen Indikator
+für die Gesamtenergieeffizienz und einen numerischen Indikator für den Primärenergieverbrauchauf der Grundlage
+von Primärenergiefaktoren je Energieträger enthalten, die auf gewichtete nationale oder regionale Jahresdurchschnitts
+werte oder einen spezifischen Wert für die Erzeugung am Standort gestützt werden können.
+Beider Methode zur Berechnung der Gesamtenergieeffizienz von Gebäuden sollten die EuropäischenNormen berück
+sichtigt werden, und die Methode sollte mit den einschlägigen Vorschriftendes Unionsrechts einschließlichder
+Richtlinie 2009/28/EG im Einklang stehen.
+3. Bei der Festlegung der Berechnungsmethode sind mindestens folgende Aspekte zu berücksichtigen:
+a) die nachstehendentatsächlichen thermischen Eigenschaften des Gebäudes, einschließlich der Innenbauteile:
+i) Wärmekapazität,
+ii) Wärmedämmung,
+iii) passive Heizung,
+iv) Kühlelemente und
+v) Wärmebrücken;
+b) Heizungsanlage und Warmwasserversorgung, einschließlich ihrer Dämmcharakteristik;
+c) Klimaanlagen;
+d) natürlicheoder mechanische Belüftung, die auch die Luftdichtheitumfassen kann;
+e) eingebauteBeleuchtung (hauptsächlich beiNichtwohngebäuden);
+f) Gestaltung, Lage und Ausrichtung des Gebäudes, einschließlich des Außenklimas;
+g) passive Solarsysteme und Sonnenschutz;
+h) Innenraumklimabedingungen, einschließlichdes Innenraum-Sollklimas;
+i) interneLasten.
+4. Bei der Berechnung wird, soweit relevant, der positive Einfluss folgender Aspekte berücksichtigt:
+a) lokale Sonnenexposition, aktive Solarsysteme und andere Systeme zur Erzeugung von Wärme und Elektrizität auf
+der Grundlage von Energie aus erneuerbaren Quellen;
+b) Elektrizitätsgewinnung durch Kraft-Wärme-Kopplung;
+c) Fern-/Blockheizung undFern-/Blockkühlung;
+d) natürliche Beleuchtung.
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/29
+5. Für die Berechnungsollten die Gebäude angemessen in folgende Kategorien unterteiltwerden:
+a) Einfamilienhäuser verschiedener Bauarten;
+b) Mehrfamilienhäuser;
+c) Bürogebäude;
+d) Unterrichtsgebäude;
+e) Krankenhäuser;
+f) Hotelsund Gaststätten;
+g) Sportanlagen;
+h) Gebäude des Groß- und Einzelhandels;
+i) sonstigeArten Energie verbrauchender Gebäude.
+DE
+L 153/30 Amtsblatt der Europäischen Union 18.6.2010
+ANHANG II
+Unabhängiges Kontrollsystem für Ausweise über die Gesamtenergieeffizienz und Inspektionsberichte
+1. Die zuständigen Behörden oder die Stellen, denen die zuständigen Behörden die Verantwortung für die Anwendung
+des unabhängigen Kontrollsystems übertragen haben, nehmen eine Stichprobe mindestens eines statistisch signifi
+kanten Prozentanteils aller jährlich ausgestellten Ausweise über die Gesamtenergieeffizienz und unterziehen diese
+Ausweise einer Überprüfung.
+Die Überprüfungerfolgt auf der Grundlageder nachstehend angegebenen Optionen oder gleichwertiger Maßnahmen:
+a) Validitätsprüfung der Eingabe-Gebäudedaten, die zur Ausstellung des Ausweises der Gesamtenergieeffizienz ver
+wendet wurden, und der im Ausweis angegebenen Ergebnisse;
+b) Prüfungder Eingabe-Daten und Überprüfung der Ergebnisse des Ausweises über die Gesamtenergieeffizienz,
+einschließlich der abgegebenen Empfehlungen;
+c) vollständige Prüfung der Eingabe-Gebäudedaten, die zur Ausstellung des Ausweises über die Gesamtenergieeffi
+zienz verwendet wurden, vollständige Überprüfung der im Ausweis angegebenen Ergebnisse, einschließlich der
+abgegebenen Empfehlungen, und Š falls möglich Š Inaugenscheinnahme des Gebäudes zur Prüfung der Über
+einstimmung zwischen den im Ausweis über die Gesamtenergieeffizienz angegebenen Spezifikationen mit dem
+Gebäude, für das der Ausweis erstellt wurde.
+2. Die zuständigen Behörden oder die Stellen, denen die zuständigen Behörden die Verantwortung für die Anwendung
+des unabhängigen Kontrollsystems übertragen haben, nehmen eine Stichprobe mindestens eines statistisch signifi
+kanten Prozentanteils aller jährlich ausgestellten Inspektionsberichte und unterziehen diese Berichte einer Überprü
+fung.
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/31
+ANHANG III
+Rahmen für eine Vergleichsmethode zur Berechnung kostenoptimaler Niveaus für die Anforderungen an die
+Gesamtenergieeffizienz von Gebäuden und Gebäudekomponenten
+Der Rahmen für eine Vergleichsmethode ermöglichtes den Mitgliedstaaten, die Gesamtenergieeffizienz von Gebäuden und
+Gebäudekomponenten zu bestimmen und die wirtschaftlichen Aspekte der die Gesamtenergieeffizienzbetreffenden Maß
+nahmen zu ermessen sowie beides ins Verhältnis zu setzen, um das kostenoptimale Niveauzu ermitteln.
+Der Rahmen für eine Vergleichsmethode ist durch Leitlinien zu ergänzen, in denen beschrieben wird, wie dieser Rahmen
+bei der Berechnung kostenoptimaler Niveaus anzuwenden ist.
+Der Rahmen für eine Vergleichsmethode gestattet die Berücksichtigung folgender Faktoren: Nutzungsmuster, Außenkli
+mabedingungen, Investitionskosten, Gebäudekategorie, Wartungs- und Betriebskosten (einschließlich der Energiekosten
+und Œeinsparungen) sowiegegebenenfalls Einnahmen aus der Energieerzeugung und Entsorgungskosten. Der Rahmen
+sollte auf die für diese Richtlinie relevanten Europäischen Normen gestützt werden.
+Des Weiteren obliegt es der Kommission,
+Š Leitlinien zur Flankierung des Rahmens für eine Vergleichsmethode bereitzustellen; diese Leitlinien werden es den
+Mitgliedstaaten ermöglichen, die nachstehend aufgeführten Maßnahmen durchzuführen;
+Š Informationen über die geschätzten langfristigen Entwicklungen der Energiepreisebereitzustellen.
+Für die Anwendung des Rahmens für eine Vergleichsmethode durch die Mitgliedstaaten sind auf der Ebene der Mitglied
+staaten in Parametern ausgedrückte allgemeine Bedingungen festzulegen.
+Nach dem Rahmen für eine Vergleichsmethode sind die Mitgliedstaaten zu Folgendem verpflichtet:
+Š Bestimmung von Referenzgebäuden, die durch ihre Auslegungund ihre geografische Lage, einschließlich der Innen
+raum- undAußenklimabedingungen, gekennzeichnet und repräsentativ sind. Als Referenzgebäudewerden neue und
+bestehende Wohn- und Nichtwohngebäude herangezogen;
+Š Festlegung von Energieeffizienzmaßnahmen, die in Bezug auf die Referenzgebäude zu bewerten sind. Dabei kann es
+sich um Maßnahmen für einzelne Gebäude insgesamt,für einzelne Gebäudekomponenten oder für Kombinationen
+von Gebäudekomponentenhandeln;
+Š Bestimmung des Endenergie- und des Primärenergiebedarfs der Referenzgebäude vor und nach Durchführung der
+definierten Energieeffizienzmaßnahmen;
+Š Berechnung der Kosten (d. h. des Nettogegenwartswerts) der (im zweiten Gedankenstrich genannten) Energieeffizienz
+maßnahmen über die zu erwartendewirtschaftliche Lebensdauerin Bezug auf die (im ersten Gedankenstrich genann
+ten) Referenzgebäude unter Anwendung der Grundsätze des Rahmens für eine Vergleichsmethode.
+Mit der Berechnung der Kosten der Energieeffizienzmaßnahmen über die zu erwartende wirtschaftliche Lebensdauer wird
+die Kosteneffizienz der verschiedenenNiveaus von Mindestanforderungen an die Gesamtenergieeffizienz von den Mitglied
+staaten bewertet. Dies ermöglicht die Festlegung kostenoptimaler Niveaus für die Anforderungen an die Gesamtener
+gieeffizienz.
+DE
+L 153/32 Amtsblatt der Europäischen Union 18.6.2010
+ANHANG IV
+TEIL A
+Aufgehobene Richtlinie mit ihren nachfolgenden Änderungen
+(gemäß Artikel 29)
+Richtlinie 2002/91/EG des Europäischen Parlaments und des
+Rates (ABl. L 1 vom 4.1.2003, S. 65).
+Verordnung (EG) Nr. 1137/2008 des Europäischen Par
+laments und des Rates (ABl. L 311 vom 21.11.2008, S. 1).
+Nur Nummer 9.9 des Anhangs
+TEIL B
+Fristen für die Umsetzung in innerstaatliches Recht und für dieAnwendung
+(gemäß Artikel 29)
+Richtlinie
+Umsetzungsfrist
+Datum der Anwendung
+2002/91/EG
+4. Januar 2006
+4. Januar 2009, nur Artikel 7, 8 und 9
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/33
+ANHANG V
+Entsprechungstabelle
+Richtlinie 2002/91/EG
+Vorliegende Richtlinie
+Artikel 1
+Artikel1
+Artikel 2 Nummer 1
+Artikel 2 Nummer 1
+Š
+Artikel 2 Nummern2und 3
+Artikel 2 Nummer 2
+Artikel 2 Nummer 4 und Anhang I
+Š
+Artikel2 Nummern 5, 6, 7, 8, 9, 10 und 11
+Artikel 2 Nummer 3
+Artikel 2 Nummer 12
+Artikel 2 Nummer 4
+Artikel 2 Nummer 13
+Š
+Artikel 2 Nummer 14
+Artikel 2 Nummer 5
+Artikel 2 Nummer 15
+Artikel 2 Nummer 6
+Artikel 2 Nummer 16
+Artikel 2 Nummer 7
+Artikel 2 Nummer 17
+Artikel 2 Nummer 8
+Artikel 2 Nummer 18
+Š
+Artikel 2 Nummer 19
+Artikel 3
+Artikel3 und Anhang I
+Artikel 4 Absatz 1
+Artikel 4 Absatz1
+Artikel 4 Absatz 2
+Š
+Artikel 4 Absatz 3
+Artikel 4 Absatz2
+Š
+Artikel 5
+Artikel 5
+Artikel6 Absatz 1
+Š
+Artikel 6 Absätze 2 und 3
+Artikel 6
+Artikel7
+Š
+Artikel 8, 9 und 10
+Artikel 7 Absatz 1 Unterabsatz 1
+Artikel 11 Absatz 8 und Artikel 12 Absatz 2
+Artikel 7 Absatz 1 Unterabsatz 2
+Artikel 11 Absatz 6
+Artikel 7 Absatz 1 Unterabsatz 3
+Artikel 12 Absatz 6
+Artikel 7 Absatz 2
+Artikel 11 Absätze 1 und 2
+Š
+Artikel 11 Absätze 3, 4, 5, 7 und 9
+Š
+Artikel 12 Absätze 1, 3, 4, 5 und 7
+Artikel 7 Absatz 3
+Artikel 13 Absätze 1und3
+Š
+Artikel 13 Absatz 2
+Artikel 8 Buchstabe a
+Artikel 14 Absätze 1und 3
+Š
+Artikel 14 Absatz 2
+Artikel 8 Buchstabe b
+Artikel14 Absatz 4
+Š
+Artikel 14 Absatz 5
+Artikel 9
+Artikel15 Absatz 1
+DE
+L 153/34 Amtsblatt der Europäischen Union 18.6.2010
+Richtlinie 2002/91/EG
+Vorliegende Richtlinie
+Š
+Artikel 15 Absätze 2, 3, 4 und 5
+Š
+Artikel 16
+Artikel 10
+Artikel 17
+Š
+Artikel 18
+Artikel 11 Einleitung
+Artikel 19
+Artikel 11 Buchstaben a und b
+Š
+Artikel 12
+Artikel 20 Absatz 1 und Artikel 20 Absatz 2
+Unterabsatz 2
+Š
+Artikel 20 Absatz 2 Unterabsatz 1 und Artikel 20
+Absätze 3 und 4
+Š
+Artikel 21
+Artikel 13
+Artikel 22
+Š
+Artikel 23, 24 und 25
+Artikel 14 Absatz 1
+Artikel 26 Absatz 1
+Artikel 14 Absätze 2 und 3
+Š
+Š
+Artikel 26 Absatz 2
+Š
+Artikel 27
+Artikel 15 Absatz 1
+Artikel 28
+Artikel 15 Absatz 2
+Š
+Š
+Artikel 29
+Artikel 16
+Artikel 30
+Artikel 17
+Artikel 31
+Anhang
+Anhang I
+Š
+Anhänge II bis V
+DE
+18.6.2010 Amtsblatt der Europäischen Union L 153/35

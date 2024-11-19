@@ -1,0 +1,6 @@
+„Fasse alle relevanten Textpassagen zusammen, die sich mit folgenden Informationen befassen: Das Wohngebäude wurde [Baujahr] erbaut und wird mittels einer [Heizungsart] beheizt. Diese Heizung wurde [Datum der Inbetriebnahme] in Betrieb genommen und läuft mit [Brennstoff]. Das Wohngebäude verfügt über [Dämmung] und Fenster mit [Verglasungsart]. Der Energiebedarf beträgt [EB in kW] für eine Wohnfläche von [WF in qm] verteilt über [Anzahl Stockwerke] Stockwerke.
+Fasse die Ergebnisse in leicht verständlicher Sprache zusammen.“
+
+
+(Baujahr (Gebäude), Heizungsart, Brennstoff, Heizungsalter (Datum der Inbetriebnahme), Dämmung (Keller, Dachboden, Leitungen – Mehrfach-Auswahl), Fenster (Verglasungsart), Energiebedarf (kW), Wohnfläche, Stockwerke
+[Nutzung erneuerbarer Energien, Gebäudesteuerung/-automatisierung, Kaufdatum]

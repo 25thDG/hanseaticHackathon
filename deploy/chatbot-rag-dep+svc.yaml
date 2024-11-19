@@ -1,0 +1,46 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: chatbot-rag
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: chatbot-rag
+  template:
+    metadata:
+      labels:
+        app: chatbot-rag
+    spec:
+      containers:
+      - name: chatbot-rag
+        image: {{CI_REGISTRY_IMAGE}}/chatbot-rag:latest
+        env:
+        - name: LLM_ENDPOINT
+          value: "https://chat-large.llm.mylab.th-luebeck.dev/v1"
+        ports:
+        - containerPort: 8501
+        resources:
+          limits:
+            memory: 1000M
+            cpu: 250m
+          requests:
+            memory: 250M
+            cpu: 100m
+      imagePullSecrets:
+      - name: gitlab-registry-{{CI_PROJECT_ID}}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: chatbot-rag
+  labels:
+    app: chatbot-rag
+spec:
+  type: ClusterIP
+  selector:
+    app: chatbot-rag
+  ports:
+  - name: http
+    port: 8501
+    targetPort: 8501

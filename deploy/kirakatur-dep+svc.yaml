@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kirakatur
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: kirakatur
+  template:
+    metadata:
+      labels:
+        app: kirakatur
+    spec:
+      containers:
+      - name: kirakatur
+        image: {{CI_REGISTRY_IMAGE}}/kirakatur:latest
+        ports:
+        - containerPort: 8501
+        resources:
+          limits:
+            memory: 1000M
+            cpu: 250m
+          requests:
+            memory: 250M
+            cpu: 100m
+      imagePullSecrets:
+      - name: gitlab-registry-{{CI_PROJECT_ID}}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: kirakatur
+  labels:
+    app: kirakatur
+spec:
+  type: ClusterIP
+  selector:
+    app: kirakatur
+  ports:
+  - name: http
+    port: 8501
+    targetPort: 8501

@@ -1,0 +1,45 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: demo
+  annotations:
+    acme.cert-manager.io/http01-edit-in-place: 'true'
+    cert-manager.io/cluster-issuer: letsencrypt
+spec:
+  rules:
+  - host: chatbot-{{CI_PROJECT_ID}}.llm.mylab.th-luebeck.dev
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: chatbot
+            port:
+              number: 8501
+  - host: chatbot-rag-{{CI_PROJECT_ID}}.llm.mylab.th-luebeck.dev
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: chatbot-rag
+            port:
+              number: 8501
+  - host: kirakatur-{{CI_PROJECT_ID}}.llm.mylab.th-luebeck.dev
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: kirakatur
+            port:
+              number: 8501
+  tls:
+    - hosts:
+        - chatbot-{{CI_PROJECT_ID}}.llm.mylab.th-luebeck.dev
+        - chatbot-rag-{{CI_PROJECT_ID}}.llm.mylab.th-luebeck.dev
+        - kirakatur-{{CI_PROJECT_ID}}.llm.mylab.th-luebeck.dev
+      secretName: chatbot-{{CI_PROJECT_ID}}-ingress-cert
